@@ -1,0 +1,63 @@
+八	delapan	UNA.2025-04-20	bā	八
+二	dua	UNA.2025-04-20	èr	二
+四	empat	UNA.2025-04-20	sì	四
+六	enam	UNA.2025-04-20	liù	六
+五	lima	UNA.2025-04-20	wǔ	五
+一	satu	UNA.2025-04-20	yī	一
+九	sembilan	UNA.2025-04-20	jiǔ	九
+十	sepuluh	UNA.2025-04-20	shí	十
+三	tiga	UNA.2025-04-20	sān	三
+七	tujuh	UNA.2025-04-20	qī	七
+下	bawah	UNA.2025-04-21	xià	下
+大	besar	UNA.2025-04-21	dà	大
+天	langit	UNA.2025-04-21	tiān	天
+人	orang	UNA.2025-04-21	rén	人
+不	tidak	UNA.2025-04-21	bù	不
+水	air	UNA.2025-04-22	shuǐ	水
+月	bulan (kalendar)	UNA.2025-04-22	yuè	月
+叫	nama panggilan	UNA.2025-04-22	jiào	叫
+回	pulang	UNA.2025-04-22	huí	回
+日	tanggal	UNA.2025-04-22	rì	日
+好	baik	UNA.2025-04-23	hǎo	好
+在	berada di	UNA.2025-04-23	zài	在
+他	dia	UNA.2025-04-23	tā	他
+有	mempunyai	UNA.2025-04-23	yǒu	有
+去	pergi	UNA.2025-04-23	qù	去
+我	aku	UNA.2025-04-24	wǒ	我
+來	datang	UNA.2025-04-24	lái	來
+你	kamu	UNA.2025-04-24	nǐ	你
+吃	makan	UNA.2025-04-24	chī	吃
+姓	nama marga	UNA.2025-04-24	xìng	姓
+是	adalah	UNA.2025-04-25	shì	是
+的	dari; milik	UNA.2025-04-25	de	的
+忙	lelah	UNA.2025-04-25	máng	忙
+見	lihat	UNA.2025-04-25	jiàn	見
+家	rumah	UNA.2025-04-25	jiā	家
+啊	aha!	UNA.2025-04-26	a	啊
+書	buku	UNA.2025-04-26	shū	書
+要	ingin	UNA.2025-04-26	yào	要
+很	sangat	UNA.2025-04-26	hěn	很
+茶	teh	UNA.2025-04-26	chá	茶
+嗎	apa	UNA.2025-04-27	ma	嗎
+課	kelas; pelajaran	UNA.2025-04-27	kè	課
+做	membuat; melakukan	UNA.2025-04-27	zuò	做
+喝	minum	UNA.2025-04-27	hē	喝
+誰	siapa	UNA.2025-04-27	sheí	誰
+新	baru	UNA.2025-04-28	xīn	新
+愛	cinta	UNA.2025-04-28	ài	愛
+點	jam	UNA.2025-04-28	diǎn	點
+國	kerajaan; negara	UNA.2025-04-28	guó	國
+飯	makanan	UNA.2025-04-29	fàn	飯
+學	pendidikan	UNA.2025-04-29	xué	學
+號	tanggal (sinomin 日)	UNA.2025-04-29	hào	號
+歲	usia	UNA.2025-04-29	suì	歲
+我是	aku adalah	UNA.2025-04-30	wǒ shì	我是
+你好	apa kabarmu?	UNA.2025-04-30	nǐ hǎo	你好
+今天	hari ini	UNA.2025-04-30	jīntiān	今天
+你們	kalian	UNA.2025-04-30	nǐmen	你們
+下午	malam	UNA.2025-04-30	xiàwǔ	下午
+十分	menit kesepuluh	UNA.2025-04-30	shífēn	十分
+九月	september	UNA.2025-04-30	jiǔ yuè	九月
+中午	siang (tengah hari)	UNA.2025-04-30	zhōngwǔ	中午
+早上	pagi	UNA.2025-04-30	zǎoshang	早上
+早安	selamat pagi	UNA.2025-04-30	zǎo ān	早安
