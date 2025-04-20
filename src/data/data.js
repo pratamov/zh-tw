@@ -4,123 +4,123 @@ const data = {
       "name": "UNA.2025-04-20",
       "items": [
         {
-          "mp3": "zh-tw/sounds/八.mp3",
+          "mp3": "sounds/八.mp3",
           "word": "八",
           "means": "delapan",
           "pinyin": "bā",
           "stroke": [
-            "zh-tw/stroke/八.png"
+            "stroke/八.png"
           ],
           "animation": [
-            "zh-tw/animation/八.gif"
+            "animation/八.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/二.mp3",
+          "mp3": "sounds/二.mp3",
           "word": "二",
           "means": "dua",
           "pinyin": "èr",
           "stroke": [
-            "zh-tw/stroke/二.png"
+            "stroke/二.png"
           ],
           "animation": [
-            "zh-tw/animation/二.gif"
+            "animation/二.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/四.mp3",
+          "mp3": "sounds/四.mp3",
           "word": "四",
           "means": "empat",
           "pinyin": "sì",
           "stroke": [
-            "zh-tw/stroke/四.png"
+            "stroke/四.png"
           ],
           "animation": [
-            "zh-tw/animation/四.gif"
+            "animation/四.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/六.mp3",
+          "mp3": "sounds/六.mp3",
           "word": "六",
           "means": "enam",
           "pinyin": "liù",
           "stroke": [
-            "zh-tw/stroke/六.png"
+            "stroke/六.png"
           ],
           "animation": [
-            "zh-tw/animation/六.gif"
+            "animation/六.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/五.mp3",
+          "mp3": "sounds/五.mp3",
           "word": "五",
           "means": "lima",
           "pinyin": "wǔ",
           "stroke": [
-            "zh-tw/stroke/五.png"
+            "stroke/五.png"
           ],
           "animation": [
-            "zh-tw/animation/五.gif"
+            "animation/五.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/一.mp3",
+          "mp3": "sounds/一.mp3",
           "word": "一",
           "means": "satu",
           "pinyin": "yī",
           "stroke": [
-            "zh-tw/stroke/一.png"
+            "stroke/一.png"
           ],
           "animation": [
-            "zh-tw/animation/一.gif"
+            "animation/一.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/九.mp3",
+          "mp3": "sounds/九.mp3",
           "word": "九",
           "means": "sembilan",
           "pinyin": "jiǔ",
           "stroke": [
-            "zh-tw/stroke/九.png"
+            "stroke/九.png"
           ],
           "animation": [
-            "zh-tw/animation/九.gif"
+            "animation/九.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/十.mp3",
+          "mp3": "sounds/十.mp3",
           "word": "十",
           "means": "sepuluh",
           "pinyin": "shí",
           "stroke": [
-            "zh-tw/stroke/十.png"
+            "stroke/十.png"
           ],
           "animation": [
-            "zh-tw/animation/十.gif"
+            "animation/十.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/三.mp3",
+          "mp3": "sounds/三.mp3",
           "word": "三",
           "means": "tiga",
           "pinyin": "sān",
           "stroke": [
-            "zh-tw/stroke/三.png"
+            "stroke/三.png"
           ],
           "animation": [
-            "zh-tw/animation/三.gif"
+            "animation/三.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/七.mp3",
+          "mp3": "sounds/七.mp3",
           "word": "七",
           "means": "tujuh",
           "pinyin": "qī",
           "stroke": [
-            "zh-tw/stroke/七.png"
+            "stroke/七.png"
           ],
           "animation": [
-            "zh-tw/animation/七.gif"
+            "animation/七.gif"
           ]
         }
       ]
@@ -129,63 +129,63 @@ const data = {
       "name": "UNA.2025-04-21",
       "items": [
         {
-          "mp3": "zh-tw/sounds/下.mp3",
+          "mp3": "sounds/下.mp3",
           "word": "下",
           "means": "bawah",
           "pinyin": "xià",
           "stroke": [
-            "zh-tw/stroke/下.png"
+            "stroke/下.png"
           ],
           "animation": [
-            "zh-tw/animation/下.gif"
+            "animation/下.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/大.mp3",
+          "mp3": "sounds/大.mp3",
           "word": "大",
           "means": "besar",
           "pinyin": "dà",
           "stroke": [
-            "zh-tw/stroke/大.png"
+            "stroke/大.png"
           ],
           "animation": [
-            "zh-tw/animation/大.gif"
+            "animation/大.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/天.mp3",
+          "mp3": "sounds/天.mp3",
           "word": "天",
           "means": "langit",
           "pinyin": "tiān",
           "stroke": [
-            "zh-tw/stroke/天.png"
+            "stroke/天.png"
           ],
           "animation": [
-            "zh-tw/animation/天.gif"
+            "animation/天.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/人.mp3",
+          "mp3": "sounds/人.mp3",
           "word": "人",
           "means": "orang",
           "pinyin": "rén",
           "stroke": [
-            "zh-tw/stroke/人.png"
+            "stroke/人.png"
           ],
           "animation": [
-            "zh-tw/animation/人.gif"
+            "animation/人.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/不.mp3",
+          "mp3": "sounds/不.mp3",
           "word": "不",
           "means": "tidak",
           "pinyin": "bù",
           "stroke": [
-            "zh-tw/stroke/不.png"
+            "stroke/不.png"
           ],
           "animation": [
-            "zh-tw/animation/不.gif"
+            "animation/不.gif"
           ]
         }
       ]
@@ -194,63 +194,63 @@ const data = {
       "name": "UNA.2025-04-22",
       "items": [
         {
-          "mp3": "zh-tw/sounds/水.mp3",
+          "mp3": "sounds/水.mp3",
           "word": "水",
           "means": "air",
           "pinyin": "shuǐ",
           "stroke": [
-            "zh-tw/stroke/水.png"
+            "stroke/水.png"
           ],
           "animation": [
-            "zh-tw/animation/水.gif"
+            "animation/水.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/月.mp3",
+          "mp3": "sounds/月.mp3",
           "word": "月",
           "means": "bulan (kalendar)",
           "pinyin": "yuè",
           "stroke": [
-            "zh-tw/stroke/月.png"
+            "stroke/月.png"
           ],
           "animation": [
-            "zh-tw/animation/月.gif"
+            "animation/月.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/叫.mp3",
+          "mp3": "sounds/叫.mp3",
           "word": "叫",
           "means": "nama panggilan",
           "pinyin": "jiào",
           "stroke": [
-            "zh-tw/stroke/叫.png"
+            "stroke/叫.png"
           ],
           "animation": [
-            "zh-tw/animation/叫.gif"
+            "animation/叫.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/回.mp3",
+          "mp3": "sounds/回.mp3",
           "word": "回",
           "means": "pulang",
           "pinyin": "huí",
           "stroke": [
-            "zh-tw/stroke/回.png"
+            "stroke/回.png"
           ],
           "animation": [
-            "zh-tw/animation/回.gif"
+            "animation/回.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/日.mp3",
+          "mp3": "sounds/日.mp3",
           "word": "日",
           "means": "tanggal",
           "pinyin": "rì",
           "stroke": [
-            "zh-tw/stroke/日.png"
+            "stroke/日.png"
           ],
           "animation": [
-            "zh-tw/animation/日.gif"
+            "animation/日.gif"
           ]
         }
       ]
@@ -259,63 +259,63 @@ const data = {
       "name": "UNA.2025-04-23",
       "items": [
         {
-          "mp3": "zh-tw/sounds/好.mp3",
+          "mp3": "sounds/好.mp3",
           "word": "好",
           "means": "baik",
           "pinyin": "hǎo",
           "stroke": [
-            "zh-tw/stroke/好.png"
+            "stroke/好.png"
           ],
           "animation": [
-            "zh-tw/animation/好.gif"
+            "animation/好.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/在.mp3",
+          "mp3": "sounds/在.mp3",
           "word": "在",
           "means": "berada di",
           "pinyin": "zài",
           "stroke": [
-            "zh-tw/stroke/在.png"
+            "stroke/在.png"
           ],
           "animation": [
-            "zh-tw/animation/在.gif"
+            "animation/在.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/他.mp3",
+          "mp3": "sounds/他.mp3",
           "word": "他",
           "means": "dia",
           "pinyin": "tā",
           "stroke": [
-            "zh-tw/stroke/他.png"
+            "stroke/他.png"
           ],
           "animation": [
-            "zh-tw/animation/他.gif"
+            "animation/他.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/有.mp3",
+          "mp3": "sounds/有.mp3",
           "word": "有",
           "means": "mempunyai",
           "pinyin": "yǒu",
           "stroke": [
-            "zh-tw/stroke/有.png"
+            "stroke/有.png"
           ],
           "animation": [
-            "zh-tw/animation/有.gif"
+            "animation/有.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/去.mp3",
+          "mp3": "sounds/去.mp3",
           "word": "去",
           "means": "pergi",
           "pinyin": "qù",
           "stroke": [
-            "zh-tw/stroke/去.png"
+            "stroke/去.png"
           ],
           "animation": [
-            "zh-tw/animation/去.gif"
+            "animation/去.gif"
           ]
         }
       ]
@@ -324,63 +324,63 @@ const data = {
       "name": "UNA.2025-04-24",
       "items": [
         {
-          "mp3": "zh-tw/sounds/我.mp3",
+          "mp3": "sounds/我.mp3",
           "word": "我",
           "means": "aku",
           "pinyin": "wǒ",
           "stroke": [
-            "zh-tw/stroke/我.png"
+            "stroke/我.png"
           ],
           "animation": [
-            "zh-tw/animation/我.gif"
+            "animation/我.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/來.mp3",
+          "mp3": "sounds/來.mp3",
           "word": "來",
           "means": "datang",
           "pinyin": "lái",
           "stroke": [
-            "zh-tw/stroke/來.png"
+            "stroke/來.png"
           ],
           "animation": [
-            "zh-tw/animation/來.gif"
+            "animation/來.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/你.mp3",
+          "mp3": "sounds/你.mp3",
           "word": "你",
           "means": "kamu",
           "pinyin": "nǐ",
           "stroke": [
-            "zh-tw/stroke/你.png"
+            "stroke/你.png"
           ],
           "animation": [
-            "zh-tw/animation/你.gif"
+            "animation/你.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/吃.mp3",
+          "mp3": "sounds/吃.mp3",
           "word": "吃",
           "means": "makan",
           "pinyin": "chī",
           "stroke": [
-            "zh-tw/stroke/吃.png"
+            "stroke/吃.png"
           ],
           "animation": [
-            "zh-tw/animation/吃.gif"
+            "animation/吃.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/姓.mp3",
+          "mp3": "sounds/姓.mp3",
           "word": "姓",
           "means": "nama marga",
           "pinyin": "xìng",
           "stroke": [
-            "zh-tw/stroke/姓.png"
+            "stroke/姓.png"
           ],
           "animation": [
-            "zh-tw/animation/姓.gif"
+            "animation/姓.gif"
           ]
         }
       ]
@@ -389,63 +389,63 @@ const data = {
       "name": "UNA.2025-04-25",
       "items": [
         {
-          "mp3": "zh-tw/sounds/是.mp3",
+          "mp3": "sounds/是.mp3",
           "word": "是",
           "means": "adalah",
           "pinyin": "shì",
           "stroke": [
-            "zh-tw/stroke/是.png"
+            "stroke/是.png"
           ],
           "animation": [
-            "zh-tw/animation/是.gif"
+            "animation/是.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/的.mp3",
+          "mp3": "sounds/的.mp3",
           "word": "的",
           "means": "dari; milik",
           "pinyin": "de",
           "stroke": [
-            "zh-tw/stroke/的.png"
+            "stroke/的.png"
           ],
           "animation": [
-            "zh-tw/animation/的.gif"
+            "animation/的.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/忙.mp3",
+          "mp3": "sounds/忙.mp3",
           "word": "忙",
           "means": "lelah",
           "pinyin": "máng",
           "stroke": [
-            "zh-tw/stroke/忙.png"
+            "stroke/忙.png"
           ],
           "animation": [
-            "zh-tw/animation/忙.gif"
+            "animation/忙.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/見.mp3",
+          "mp3": "sounds/見.mp3",
           "word": "見",
           "means": "lihat",
           "pinyin": "jiàn",
           "stroke": [
-            "zh-tw/stroke/見.png"
+            "stroke/見.png"
           ],
           "animation": [
-            "zh-tw/animation/見.gif"
+            "animation/見.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/家.mp3",
+          "mp3": "sounds/家.mp3",
           "word": "家",
           "means": "rumah",
           "pinyin": "jiā",
           "stroke": [
-            "zh-tw/stroke/家.png"
+            "stroke/家.png"
           ],
           "animation": [
-            "zh-tw/animation/家.gif"
+            "animation/家.gif"
           ]
         }
       ]
@@ -454,63 +454,63 @@ const data = {
       "name": "UNA.2025-04-26",
       "items": [
         {
-          "mp3": "zh-tw/sounds/啊.mp3",
+          "mp3": "sounds/啊.mp3",
           "word": "啊",
           "means": "aha!",
           "pinyin": "a",
           "stroke": [
-            "zh-tw/stroke/啊.png"
+            "stroke/啊.png"
           ],
           "animation": [
-            "zh-tw/animation/啊.gif"
+            "animation/啊.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/書.mp3",
+          "mp3": "sounds/書.mp3",
           "word": "書",
           "means": "buku",
           "pinyin": "shū",
           "stroke": [
-            "zh-tw/stroke/書.png"
+            "stroke/書.png"
           ],
           "animation": [
-            "zh-tw/animation/書.gif"
+            "animation/書.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/要.mp3",
+          "mp3": "sounds/要.mp3",
           "word": "要",
           "means": "ingin",
           "pinyin": "yào",
           "stroke": [
-            "zh-tw/stroke/要.png"
+            "stroke/要.png"
           ],
           "animation": [
-            "zh-tw/animation/要.gif"
+            "animation/要.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/很.mp3",
+          "mp3": "sounds/很.mp3",
           "word": "很",
           "means": "sangat",
           "pinyin": "hěn",
           "stroke": [
-            "zh-tw/stroke/很.png"
+            "stroke/很.png"
           ],
           "animation": [
-            "zh-tw/animation/很.gif"
+            "animation/很.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/茶.mp3",
+          "mp3": "sounds/茶.mp3",
           "word": "茶",
           "means": "teh",
           "pinyin": "chá",
           "stroke": [
-            "zh-tw/stroke/茶.png"
+            "stroke/茶.png"
           ],
           "animation": [
-            "zh-tw/animation/茶.gif"
+            "animation/茶.gif"
           ]
         }
       ]
@@ -519,63 +519,63 @@ const data = {
       "name": "UNA.2025-04-27",
       "items": [
         {
-          "mp3": "zh-tw/sounds/嗎.mp3",
+          "mp3": "sounds/嗎.mp3",
           "word": "嗎",
           "means": "apa",
           "pinyin": "ma",
           "stroke": [
-            "zh-tw/stroke/嗎.png"
+            "stroke/嗎.png"
           ],
           "animation": [
-            "zh-tw/animation/嗎.gif"
+            "animation/嗎.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/課.mp3",
+          "mp3": "sounds/課.mp3",
           "word": "課",
           "means": "kelas; pelajaran",
           "pinyin": "kè",
           "stroke": [
-            "zh-tw/stroke/課.png"
+            "stroke/課.png"
           ],
           "animation": [
-            "zh-tw/animation/課.gif"
+            "animation/課.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/做.mp3",
+          "mp3": "sounds/做.mp3",
           "word": "做",
           "means": "membuat; melakukan",
           "pinyin": "zuò",
           "stroke": [
-            "zh-tw/stroke/做.png"
+            "stroke/做.png"
           ],
           "animation": [
-            "zh-tw/animation/做.gif"
+            "animation/做.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/喝.mp3",
+          "mp3": "sounds/喝.mp3",
           "word": "喝",
           "means": "minum",
           "pinyin": "hē",
           "stroke": [
-            "zh-tw/stroke/喝.png"
+            "stroke/喝.png"
           ],
           "animation": [
-            "zh-tw/animation/喝.gif"
+            "animation/喝.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/誰.mp3",
+          "mp3": "sounds/誰.mp3",
           "word": "誰",
           "means": "siapa",
           "pinyin": "sheí",
           "stroke": [
-            "zh-tw/stroke/誰.png"
+            "stroke/誰.png"
           ],
           "animation": [
-            "zh-tw/animation/誰.gif"
+            "animation/誰.gif"
           ]
         }
       ]
@@ -584,51 +584,51 @@ const data = {
       "name": "UNA.2025-04-28",
       "items": [
         {
-          "mp3": "zh-tw/sounds/新.mp3",
+          "mp3": "sounds/新.mp3",
           "word": "新",
           "means": "baru",
           "pinyin": "xīn",
           "stroke": [
-            "zh-tw/stroke/新.png"
+            "stroke/新.png"
           ],
           "animation": [
-            "zh-tw/animation/新.gif"
+            "animation/新.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/愛.mp3",
+          "mp3": "sounds/愛.mp3",
           "word": "愛",
           "means": "cinta",
           "pinyin": "ài",
           "stroke": [
-            "zh-tw/stroke/愛.png"
+            "stroke/愛.png"
           ],
           "animation": [
-            "zh-tw/animation/愛.gif"
+            "animation/愛.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/點.mp3",
+          "mp3": "sounds/點.mp3",
           "word": "點",
           "means": "jam",
           "pinyin": "diǎn",
           "stroke": [
-            "zh-tw/stroke/點.png"
+            "stroke/點.png"
           ],
           "animation": [
-            "zh-tw/animation/點.gif"
+            "animation/點.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/國.mp3",
+          "mp3": "sounds/國.mp3",
           "word": "國",
           "means": "kerajaan; negara",
           "pinyin": "guó",
           "stroke": [
-            "zh-tw/stroke/國.png"
+            "stroke/國.png"
           ],
           "animation": [
-            "zh-tw/animation/國.gif"
+            "animation/國.gif"
           ]
         }
       ]
@@ -637,51 +637,51 @@ const data = {
       "name": "UNA.2025-04-29",
       "items": [
         {
-          "mp3": "zh-tw/sounds/飯.mp3",
+          "mp3": "sounds/飯.mp3",
           "word": "飯",
           "means": "makanan",
           "pinyin": "fàn",
           "stroke": [
-            "zh-tw/stroke/飯.png"
+            "stroke/飯.png"
           ],
           "animation": [
-            "zh-tw/animation/飯.gif"
+            "animation/飯.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/學.mp3",
+          "mp3": "sounds/學.mp3",
           "word": "學",
           "means": "pendidikan",
           "pinyin": "xué",
           "stroke": [
-            "zh-tw/stroke/學.png"
+            "stroke/學.png"
           ],
           "animation": [
-            "zh-tw/animation/學.gif"
+            "animation/學.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/號.mp3",
+          "mp3": "sounds/號.mp3",
           "word": "號",
           "means": "tanggal (sinomin 日)",
           "pinyin": "hào",
           "stroke": [
-            "zh-tw/stroke/號.png"
+            "stroke/號.png"
           ],
           "animation": [
-            "zh-tw/animation/號.gif"
+            "animation/號.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/歲.mp3",
+          "mp3": "sounds/歲.mp3",
           "word": "歲",
           "means": "usia",
           "pinyin": "suì",
           "stroke": [
-            "zh-tw/stroke/歲.png"
+            "stroke/歲.png"
           ],
           "animation": [
-            "zh-tw/animation/歲.gif"
+            "animation/歲.gif"
           ]
         }
       ]
@@ -690,143 +690,143 @@ const data = {
       "name": "UNA.2025-04-30",
       "items": [
         {
-          "mp3": "zh-tw/sounds/我是.mp3",
+          "mp3": "sounds/我是.mp3",
           "word": "我是",
           "means": "aku adalah",
           "pinyin": "wǒ shì",
           "stroke": [
-            "zh-tw/stroke/我.png",
-            "zh-tw/stroke/是.png"
+            "stroke/我.png",
+            "stroke/是.png"
           ],
           "animation": [
-            "zh-tw/animation/我.gif",
-            "zh-tw/animation/是.gif"
+            "animation/我.gif",
+            "animation/是.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/你好.mp3",
+          "mp3": "sounds/你好.mp3",
           "word": "你好",
           "means": "apa kabarmu?",
           "pinyin": "nǐ hǎo",
           "stroke": [
-            "zh-tw/stroke/你.png",
-            "zh-tw/stroke/好.png"
+            "stroke/你.png",
+            "stroke/好.png"
           ],
           "animation": [
-            "zh-tw/animation/你.gif",
-            "zh-tw/animation/好.gif"
+            "animation/你.gif",
+            "animation/好.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/今天.mp3",
+          "mp3": "sounds/今天.mp3",
           "word": "今天",
           "means": "hari ini",
           "pinyin": "jīntiān",
           "stroke": [
-            "zh-tw/stroke/今.png",
-            "zh-tw/stroke/天.png"
+            "stroke/今.png",
+            "stroke/天.png"
           ],
           "animation": [
-            "zh-tw/animation/今.gif",
-            "zh-tw/animation/天.gif"
+            "animation/今.gif",
+            "animation/天.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/你們.mp3",
+          "mp3": "sounds/你們.mp3",
           "word": "你們",
           "means": "kalian",
           "pinyin": "nǐmen",
           "stroke": [
-            "zh-tw/stroke/你.png",
-            "zh-tw/stroke/們.png"
+            "stroke/你.png",
+            "stroke/們.png"
           ],
           "animation": [
-            "zh-tw/animation/你.gif",
-            "zh-tw/animation/們.gif"
+            "animation/你.gif",
+            "animation/們.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/下午.mp3",
+          "mp3": "sounds/下午.mp3",
           "word": "下午",
           "means": "malam",
           "pinyin": "xiàwǔ",
           "stroke": [
-            "zh-tw/stroke/下.png",
-            "zh-tw/stroke/午.png"
+            "stroke/下.png",
+            "stroke/午.png"
           ],
           "animation": [
-            "zh-tw/animation/下.gif",
-            "zh-tw/animation/午.gif"
+            "animation/下.gif",
+            "animation/午.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/十分.mp3",
+          "mp3": "sounds/十分.mp3",
           "word": "十分",
           "means": "menit kesepuluh",
           "pinyin": "shífēn",
           "stroke": [
-            "zh-tw/stroke/十.png",
-            "zh-tw/stroke/分.png"
+            "stroke/十.png",
+            "stroke/分.png"
           ],
           "animation": [
-            "zh-tw/animation/十.gif",
-            "zh-tw/animation/分.gif"
+            "animation/十.gif",
+            "animation/分.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/九月.mp3",
+          "mp3": "sounds/九月.mp3",
           "word": "九月",
           "means": "september",
           "pinyin": "jiǔ yuè",
           "stroke": [
-            "zh-tw/stroke/九.png",
-            "zh-tw/stroke/月.png"
+            "stroke/九.png",
+            "stroke/月.png"
           ],
           "animation": [
-            "zh-tw/animation/九.gif",
-            "zh-tw/animation/月.gif"
+            "animation/九.gif",
+            "animation/月.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/中午.mp3",
+          "mp3": "sounds/中午.mp3",
           "word": "中午",
           "means": "siang (tengah hari)",
           "pinyin": "zhōngwǔ",
           "stroke": [
-            "zh-tw/stroke/中.png",
-            "zh-tw/stroke/午.png"
+            "stroke/中.png",
+            "stroke/午.png"
           ],
           "animation": [
-            "zh-tw/animation/中.gif",
-            "zh-tw/animation/午.gif"
+            "animation/中.gif",
+            "animation/午.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/早上.mp3",
+          "mp3": "sounds/早上.mp3",
           "word": "早上",
           "means": "pagi",
           "pinyin": "zǎoshang",
           "stroke": [
-            "zh-tw/stroke/早.png",
-            "zh-tw/stroke/上.png"
+            "stroke/早.png",
+            "stroke/上.png"
           ],
           "animation": [
-            "zh-tw/animation/早.gif",
-            "zh-tw/animation/上.gif"
+            "animation/早.gif",
+            "animation/上.gif"
           ]
         },
         {
-          "mp3": "zh-tw/sounds/早安.mp3",
+          "mp3": "sounds/早安.mp3",
           "word": "早安",
           "means": "selamat pagi",
           "pinyin": "zǎo ān",
           "stroke": [
-            "zh-tw/stroke/早.png",
-            "zh-tw/stroke/安.png"
+            "stroke/早.png",
+            "stroke/安.png"
           ],
           "animation": [
-            "zh-tw/animation/早.gif",
-            "zh-tw/animation/安.gif"
+            "animation/早.gif",
+            "animation/安.gif"
           ]
         }
       ]
