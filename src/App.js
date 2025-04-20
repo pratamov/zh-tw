@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Deck from './components/Deck';
 import Results from './components/Results';
+import data from './data/data';
 import './styles.css';
 
 function App() {
@@ -12,22 +13,24 @@ function App() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    const fetchDecks = async () => {
-      try {
-        const response = await fetch('/decks.json');
-        if (!response.ok) {
-          throw new Error('Failed to load decks');
-        }
-        const data = await response.json();
-        setDecks(data.decks);
-      } catch (err) {
-        setError(err.message);
-      } finally {
-        setLoading(false);
-      }
-    };
+    setDecks(data.decks);
+    setLoading(false);
+    // const fetchDecks = async () => {
+    //   try {
+    //     const response = await fetch('/decks.json');
+    //     if (!response.ok) {
+    //       throw new Error('Failed to load decks');
+    //     }
+    //     const data = await response.json();
+    //     setDecks(data.decks);
+    //   } catch (err) {
+    //     setError(err.message);
+    //   } finally {
+    //     setLoading(false);
+    //   }
+    // };
 
-    fetchDecks();
+    // fetchDecks();
   }, []);
 
   const handleDeckSelect = (deck) => {
@@ -65,6 +68,7 @@ function App() {
 
       {currentDeck && !showResults && (
         <Deck 
+          key={currentDeck.word}
           deck={currentDeck} 
           onComplete={handleSessionComplete} 
           onBack={() => setCurrentDeck(null)}
