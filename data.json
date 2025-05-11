@@ -1,0 +1,3410 @@
+[
+    {
+        "title": "B1-01-1-[01]",
+        "item_count": 8,
+        "word_count": 9,
+        "items": [
+            {
+                "item": "他 是 誰 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他是誰.mp3"
+            },
+            {
+                "item": "他們 是 誰 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他們是誰.mp3"
+            },
+            {
+                "item": "他 是 新 同學",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他是新同學.mp3"
+            },
+            {
+                "item": "他們 是 新 同學",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他們是新同學.mp3"
+            },
+            {
+                "item": "請問 , 你 是 誰 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/請問你是誰.mp3"
+            },
+            {
+                "item": "請問 , 你 是 哪國人 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/請問你是哪國人.mp3"
+            },
+            {
+                "item": "你 是 哪國人 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你是哪國人.mp3"
+            },
+            {
+                "item": "他 是 哪國人 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他是哪國人.mp3"
+            }
+        ],
+        "words": {
+            "新": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/新.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/新.png"
+                ]
+            },
+            "哪國人": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/哪.gif",
+                    "https://pratamov.github.io/zh-tw/animation/國.gif",
+                    "https://pratamov.github.io/zh-tw/animation/人.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/哪.png",
+                    "https://pratamov.github.io/zh-tw/stroke/國.png",
+                    "https://pratamov.github.io/zh-tw/stroke/人.png"
+                ]
+            },
+            "誰": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/誰.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/誰.png"
+                ]
+            },
+            "他們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "同學": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/同.gif",
+                    "https://pratamov.github.io/zh-tw/animation/學.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/同.png",
+                    "https://pratamov.github.io/zh-tw/stroke/學.png"
+                ]
+            },
+            "請問": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/請.gif",
+                    "https://pratamov.github.io/zh-tw/animation/問.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/請.png",
+                    "https://pratamov.github.io/zh-tw/stroke/問.png"
+                ]
+            },
+            "你": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png"
+                ]
+            },
+            "是": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/是.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/是.png"
+                ]
+            },
+            "他": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-01-1-[02]",
+        "item_count": 8,
+        "word_count": 10,
+        "items": [
+            {
+                "item": "你 知道 嗎 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你知道嗎.mp3"
+            },
+            {
+                "item": "你們 知道 嗎 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你們知道嗎.mp3"
+            },
+            {
+                "item": "我 知道",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我知道.mp3"
+            },
+            {
+                "item": "我 不知道",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我不知道.mp3"
+            },
+            {
+                "item": "你 很 漂亮",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你很漂亮.mp3"
+            },
+            {
+                "item": "你 很 可愛",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你很可愛.mp3"
+            },
+            {
+                "item": "他 很 漂亮",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他很漂亮.mp3"
+            },
+            {
+                "item": "他 很 可愛",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他很可愛.mp3"
+            }
+        ],
+        "words": {
+            "知道": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/知.gif",
+                    "https://pratamov.github.io/zh-tw/animation/道.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/知.png",
+                    "https://pratamov.github.io/zh-tw/stroke/道.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "很": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/很.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/很.png"
+                ]
+            },
+            "你": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png"
+                ]
+            },
+            "你們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "漂亮": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/漂.gif",
+                    "https://pratamov.github.io/zh-tw/animation/亮.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/漂.png",
+                    "https://pratamov.github.io/zh-tw/stroke/亮.png"
+                ]
+            },
+            "可愛": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/可.gif",
+                    "https://pratamov.github.io/zh-tw/animation/愛.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/可.png",
+                    "https://pratamov.github.io/zh-tw/stroke/愛.png"
+                ]
+            },
+            "不知道": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/不.gif",
+                    "https://pratamov.github.io/zh-tw/animation/知.gif",
+                    "https://pratamov.github.io/zh-tw/animation/道.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/不.png",
+                    "https://pratamov.github.io/zh-tw/stroke/知.png",
+                    "https://pratamov.github.io/zh-tw/stroke/道.png"
+                ]
+            },
+            "他": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png"
+                ]
+            },
+            "嗎": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/嗎.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/嗎.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-01-2-[01]",
+        "item_count": 12,
+        "word_count": 20,
+        "items": [
+            {
+                "item": "妳 好 !",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/妳好.mp3"
+            },
+            {
+                "item": "大家 好 !",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/大家好.mp3"
+            },
+            {
+                "item": "妳叫 什麼 名字 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/妳叫什麼名字.mp3"
+            },
+            {
+                "item": "我叫 安寧",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我叫安寧.mp3"
+            },
+            {
+                "item": "我叫 特曼",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我叫特曼.mp3"
+            },
+            {
+                "item": "他叫 安寧",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他叫安寧.mp3"
+            },
+            {
+                "item": "他叫 特曼",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他叫特曼.mp3"
+            },
+            {
+                "item": "我姓 柏",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我姓柏.mp3"
+            },
+            {
+                "item": "他姓 柏",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他姓柏.mp3"
+            },
+            {
+                "item": "妳 喜歡 台灣 嗎 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/妳喜歡台灣嗎.mp3"
+            },
+            {
+                "item": "我 喜歡 台灣",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我喜歡台灣.mp3"
+            },
+            {
+                "item": "我 是 印尼人 , 你呢 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我是印尼人你呢.mp3"
+            }
+        ],
+        "words": {
+            "名字": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/名.gif",
+                    "https://pratamov.github.io/zh-tw/animation/字.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/名.png",
+                    "https://pratamov.github.io/zh-tw/stroke/字.png"
+                ]
+            },
+            "台灣": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/台.gif",
+                    "https://pratamov.github.io/zh-tw/animation/灣.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/台.png",
+                    "https://pratamov.github.io/zh-tw/stroke/灣.png"
+                ]
+            },
+            "大家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/大.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/大.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "你呢": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif",
+                    "https://pratamov.github.io/zh-tw/animation/呢.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png",
+                    "https://pratamov.github.io/zh-tw/stroke/呢.png"
+                ]
+            },
+            "他姓": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif",
+                    "https://pratamov.github.io/zh-tw/animation/姓.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png",
+                    "https://pratamov.github.io/zh-tw/stroke/姓.png"
+                ]
+            },
+            "特曼": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/特.gif",
+                    "https://pratamov.github.io/zh-tw/animation/曼.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/特.png",
+                    "https://pratamov.github.io/zh-tw/stroke/曼.png"
+                ]
+            },
+            "他叫": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif",
+                    "https://pratamov.github.io/zh-tw/animation/叫.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png",
+                    "https://pratamov.github.io/zh-tw/stroke/叫.png"
+                ]
+            },
+            "是": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/是.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/是.png"
+                ]
+            },
+            "嗎": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/嗎.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/嗎.png"
+                ]
+            },
+            "我叫": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif",
+                    "https://pratamov.github.io/zh-tw/animation/叫.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png",
+                    "https://pratamov.github.io/zh-tw/stroke/叫.png"
+                ]
+            },
+            "我姓": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif",
+                    "https://pratamov.github.io/zh-tw/animation/姓.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png",
+                    "https://pratamov.github.io/zh-tw/stroke/姓.png"
+                ]
+            },
+            "印尼人": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/印.gif",
+                    "https://pratamov.github.io/zh-tw/animation/尼.gif",
+                    "https://pratamov.github.io/zh-tw/animation/人.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/印.png",
+                    "https://pratamov.github.io/zh-tw/stroke/尼.png",
+                    "https://pratamov.github.io/zh-tw/stroke/人.png"
+                ]
+            },
+            "好": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/好.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/好.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "妳叫": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/妳.gif",
+                    "https://pratamov.github.io/zh-tw/animation/叫.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/妳.png",
+                    "https://pratamov.github.io/zh-tw/stroke/叫.png"
+                ]
+            },
+            "妳": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/妳.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/妳.png"
+                ]
+            },
+            "喜歡": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/喜.gif",
+                    "https://pratamov.github.io/zh-tw/animation/歡.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/喜.png",
+                    "https://pratamov.github.io/zh-tw/stroke/歡.png"
+                ]
+            },
+            "柏": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/柏.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/柏.png"
+                ]
+            },
+            "安寧": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/安.gif",
+                    "https://pratamov.github.io/zh-tw/animation/寧.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/安.png",
+                    "https://pratamov.github.io/zh-tw/stroke/寧.png"
+                ]
+            },
+            "什麼": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/什.gif",
+                    "https://pratamov.github.io/zh-tw/animation/麼.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/什.png",
+                    "https://pratamov.github.io/zh-tw/stroke/麼.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-01-3-[01]",
+        "item_count": 10,
+        "word_count": 14,
+        "items": [
+            {
+                "item": "我 愛 吃 水果",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛吃水果.mp3"
+            },
+            {
+                "item": "我 愛 吃 拉麵",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛吃拉麵.mp3"
+            },
+            {
+                "item": "我 愛 吃 乾麵",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛吃乾麵.mp3"
+            },
+            {
+                "item": "我 愛 吃 蛋餅",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛吃蛋餅.mp3"
+            },
+            {
+                "item": "我 愛 吃 蔥油餅",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛吃蔥油餅.mp3"
+            },
+            {
+                "item": "我 愛 吃 餛飩",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛吃餛飩.mp3"
+            },
+            {
+                "item": "我 愛 喝 奶茶",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛喝奶茶.mp3"
+            },
+            {
+                "item": "我 愛 喝 綠茶",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛喝綠茶.mp3"
+            },
+            {
+                "item": "我 愛 喝 紅茶",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛喝紅茶.mp3"
+            },
+            {
+                "item": "我 愛 喝 果汁",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我愛喝果汁.mp3"
+            }
+        ],
+        "words": {
+            "愛": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/愛.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/愛.png"
+                ]
+            },
+            "水果": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/水.gif",
+                    "https://pratamov.github.io/zh-tw/animation/果.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/水.png",
+                    "https://pratamov.github.io/zh-tw/stroke/果.png"
+                ]
+            },
+            "喝": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/喝.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/喝.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "綠茶": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/綠.gif",
+                    "https://pratamov.github.io/zh-tw/animation/茶.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/綠.png",
+                    "https://pratamov.github.io/zh-tw/stroke/茶.png"
+                ]
+            },
+            "乾麵": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/乾.gif",
+                    "https://pratamov.github.io/zh-tw/animation/麵.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/乾.png",
+                    "https://pratamov.github.io/zh-tw/stroke/麵.png"
+                ]
+            },
+            "奶茶": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/奶.gif",
+                    "https://pratamov.github.io/zh-tw/animation/茶.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/奶.png",
+                    "https://pratamov.github.io/zh-tw/stroke/茶.png"
+                ]
+            },
+            "吃": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/吃.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/吃.png"
+                ]
+            },
+            "紅茶": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/紅.gif",
+                    "https://pratamov.github.io/zh-tw/animation/茶.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/紅.png",
+                    "https://pratamov.github.io/zh-tw/stroke/茶.png"
+                ]
+            },
+            "蔥油餅": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/蔥.gif",
+                    "https://pratamov.github.io/zh-tw/animation/油.gif",
+                    "https://pratamov.github.io/zh-tw/animation/餅.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/蔥.png",
+                    "https://pratamov.github.io/zh-tw/stroke/油.png",
+                    "https://pratamov.github.io/zh-tw/stroke/餅.png"
+                ]
+            },
+            "餛飩": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/餛.gif",
+                    "https://pratamov.github.io/zh-tw/animation/飩.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/餛.png",
+                    "https://pratamov.github.io/zh-tw/stroke/飩.png"
+                ]
+            },
+            "蛋餅": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/蛋.gif",
+                    "https://pratamov.github.io/zh-tw/animation/餅.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/蛋.png",
+                    "https://pratamov.github.io/zh-tw/stroke/餅.png"
+                ]
+            },
+            "果汁": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/果.gif",
+                    "https://pratamov.github.io/zh-tw/animation/汁.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/果.png",
+                    "https://pratamov.github.io/zh-tw/stroke/汁.png"
+                ]
+            },
+            "拉麵": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/拉.gif",
+                    "https://pratamov.github.io/zh-tw/animation/麵.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/拉.png",
+                    "https://pratamov.github.io/zh-tw/stroke/麵.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-1-[01]",
+        "item_count": 8,
+        "word_count": 10,
+        "items": [
+            {
+                "item": "在 安寧 家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/在安寧家.mp3"
+            },
+            {
+                "item": "在 特曼 家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/在特曼家.mp3"
+            },
+            {
+                "item": "在 我 家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/在我家.mp3"
+            },
+            {
+                "item": "在 他 家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/在他家.mp3"
+            },
+            {
+                "item": "在 你 家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/在你家.mp3"
+            },
+            {
+                "item": "在 我們 家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/在我們家.mp3"
+            },
+            {
+                "item": "在 他們 家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/在他們家.mp3"
+            },
+            {
+                "item": "在 你們 家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/在你們家.mp3"
+            }
+        ],
+        "words": {
+            "我們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "他": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png"
+                ]
+            },
+            "在": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/在.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/在.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "他們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "你": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png"
+                ]
+            },
+            "你們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "特曼": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/特.gif",
+                    "https://pratamov.github.io/zh-tw/animation/曼.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/特.png",
+                    "https://pratamov.github.io/zh-tw/stroke/曼.png"
+                ]
+            },
+            "家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "安寧": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/安.gif",
+                    "https://pratamov.github.io/zh-tw/animation/寧.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/安.png",
+                    "https://pratamov.github.io/zh-tw/stroke/寧.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-1-[02]",
+        "item_count": 14,
+        "word_count": 10,
+        "items": [
+            {
+                "item": "今天 是 星期一",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是星期一.mp3"
+            },
+            {
+                "item": "今天 是 星期二",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是星期二.mp3"
+            },
+            {
+                "item": "今天 是 星期三",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是星期三.mp3"
+            },
+            {
+                "item": "今天 是 星期四",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是星期四.mp3"
+            },
+            {
+                "item": "今天 是 星期五",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是星期五.mp3"
+            },
+            {
+                "item": "今天 是 星期六",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是星期六.mp3"
+            },
+            {
+                "item": "今天 是 星期日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是星期日.mp3"
+            },
+            {
+                "item": "今天 不是 星期一",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天不是星期一.mp3"
+            },
+            {
+                "item": "今天 不是 星期二",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天不是星期二.mp3"
+            },
+            {
+                "item": "今天 不是 星期三",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天不是星期三.mp3"
+            },
+            {
+                "item": "今天 不是 星期四",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天不是星期四.mp3"
+            },
+            {
+                "item": "今天 不是 星期五",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天不是星期五.mp3"
+            },
+            {
+                "item": "今天 不是 星期六",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天不是星期六.mp3"
+            },
+            {
+                "item": "今天 不是 星期日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天不是星期日.mp3"
+            }
+        ],
+        "words": {
+            "星期日": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/日.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/日.png"
+                ]
+            },
+            "不是": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/不.gif",
+                    "https://pratamov.github.io/zh-tw/animation/是.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/不.png",
+                    "https://pratamov.github.io/zh-tw/stroke/是.png"
+                ]
+            },
+            "星期四": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/四.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/四.png"
+                ]
+            },
+            "星期三": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/三.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/三.png"
+                ]
+            },
+            "星期二": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/二.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/二.png"
+                ]
+            },
+            "是": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/是.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/是.png"
+                ]
+            },
+            "星期五": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/五.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/五.png"
+                ]
+            },
+            "今天": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/今.gif",
+                    "https://pratamov.github.io/zh-tw/animation/天.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/今.png",
+                    "https://pratamov.github.io/zh-tw/stroke/天.png"
+                ]
+            },
+            "星期一": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/一.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/一.png"
+                ]
+            },
+            "星期六": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/六.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/六.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-1-[03]",
+        "item_count": 14,
+        "word_count": 13,
+        "items": [
+            {
+                "item": "安寧 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/安寧去學校.mp3"
+            },
+            {
+                "item": "安寧 不去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/安寧不去學校.mp3"
+            },
+            {
+                "item": "特曼 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/特曼去學校.mp3"
+            },
+            {
+                "item": "特曼 不去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/特曼不去學校.mp3"
+            },
+            {
+                "item": "我 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我去學校.mp3"
+            },
+            {
+                "item": "我 不去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我不去學校.mp3"
+            },
+            {
+                "item": "我們 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我們去學校.mp3"
+            },
+            {
+                "item": "我們 不去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我們不去學校.mp3"
+            },
+            {
+                "item": "他 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他去學校.mp3"
+            },
+            {
+                "item": "他 不去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他不去學校.mp3"
+            },
+            {
+                "item": "他們 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他們去學校.mp3"
+            },
+            {
+                "item": "他們 不去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他們不去學校.mp3"
+            },
+            {
+                "item": "你 去 圖書館 嗎 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你去圖書館嗎.mp3"
+            },
+            {
+                "item": "你們 去 圖書館 嗎 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你們去圖書館嗎.mp3"
+            }
+        ],
+        "words": {
+            "我們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "他": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png"
+                ]
+            },
+            "圖書館": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/圖.gif",
+                    "https://pratamov.github.io/zh-tw/animation/書.gif",
+                    "https://pratamov.github.io/zh-tw/animation/館.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/圖.png",
+                    "https://pratamov.github.io/zh-tw/stroke/書.png",
+                    "https://pratamov.github.io/zh-tw/stroke/館.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "學校": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/學.gif",
+                    "https://pratamov.github.io/zh-tw/animation/校.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/學.png",
+                    "https://pratamov.github.io/zh-tw/stroke/校.png"
+                ]
+            },
+            "他們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "你": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png"
+                ]
+            },
+            "你們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "特曼": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/特.gif",
+                    "https://pratamov.github.io/zh-tw/animation/曼.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/特.png",
+                    "https://pratamov.github.io/zh-tw/stroke/曼.png"
+                ]
+            },
+            "去": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/去.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/去.png"
+                ]
+            },
+            "安寧": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/安.gif",
+                    "https://pratamov.github.io/zh-tw/animation/寧.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/安.png",
+                    "https://pratamov.github.io/zh-tw/stroke/寧.png"
+                ]
+            },
+            "嗎": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/嗎.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/嗎.png"
+                ]
+            },
+            "不去": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/不.gif",
+                    "https://pratamov.github.io/zh-tw/animation/去.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/不.png",
+                    "https://pratamov.github.io/zh-tw/stroke/去.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-1-[04]",
+        "item_count": 10,
+        "word_count": 9,
+        "items": [
+            {
+                "item": "我 八點 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我八點去學校.mp3"
+            },
+            {
+                "item": "我 八點 去 圖書館",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我八點去圖書館.mp3"
+            },
+            {
+                "item": "我 九點 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我九點去學校.mp3"
+            },
+            {
+                "item": "我 九點 去 圖書館",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我九點去圖書館.mp3"
+            },
+            {
+                "item": "我 十點 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我十點去學校.mp3"
+            },
+            {
+                "item": "我 十點 去 圖書館",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我十點去圖書館.mp3"
+            },
+            {
+                "item": "我 十一點 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我十一點去學校.mp3"
+            },
+            {
+                "item": "我 十一點 去 圖書館",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我十一點去圖書館.mp3"
+            },
+            {
+                "item": "我 十二點 去 學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我十二點去學校.mp3"
+            },
+            {
+                "item": "我 十二點 去 圖書館",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我十二點去圖書館.mp3"
+            }
+        ],
+        "words": {
+            "圖書館": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/圖.gif",
+                    "https://pratamov.github.io/zh-tw/animation/書.gif",
+                    "https://pratamov.github.io/zh-tw/animation/館.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/圖.png",
+                    "https://pratamov.github.io/zh-tw/stroke/書.png",
+                    "https://pratamov.github.io/zh-tw/stroke/館.png"
+                ]
+            },
+            "十二點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/二.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/二.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "學校": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/學.gif",
+                    "https://pratamov.github.io/zh-tw/animation/校.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/學.png",
+                    "https://pratamov.github.io/zh-tw/stroke/校.png"
+                ]
+            },
+            "九點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/九.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/九.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "十一點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/一.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/一.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "去": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/去.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/去.png"
+                ]
+            },
+            "十點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "八點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/八.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/八.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-1-[05]",
+        "item_count": 20,
+        "word_count": 11,
+        "items": [
+            {
+                "item": "我 早上 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上回家.mp3"
+            },
+            {
+                "item": "我 早上 有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上有課.mp3"
+            },
+            {
+                "item": "我 早上 沒有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上沒有課.mp3"
+            },
+            {
+                "item": "我 早上 不回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上不回家.mp3"
+            },
+            {
+                "item": "我 中午 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午回家.mp3"
+            },
+            {
+                "item": "我 中午 有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午有課.mp3"
+            },
+            {
+                "item": "我 中午 沒有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午沒有課.mp3"
+            },
+            {
+                "item": "我 中午 不回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午不回家.mp3"
+            },
+            {
+                "item": "我 下午 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午回家.mp3"
+            },
+            {
+                "item": "我 下午 有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午有課.mp3"
+            },
+            {
+                "item": "我 下午 沒有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午沒有課.mp3"
+            },
+            {
+                "item": "我 下午 不回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午不回家.mp3"
+            },
+            {
+                "item": "我 晚上 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上回家.mp3"
+            },
+            {
+                "item": "我 晚上 有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上有課.mp3"
+            },
+            {
+                "item": "我 晚上 沒有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上沒有課.mp3"
+            },
+            {
+                "item": "我 晚上 不回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上不回家.mp3"
+            },
+            {
+                "item": "你 中午 回家 嗎 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你中午回家嗎.mp3"
+            },
+            {
+                "item": "你 中午 有課 嗎 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你中午有課嗎.mp3"
+            },
+            {
+                "item": "你 下午 回家 嗎 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你下午回家嗎.mp3"
+            },
+            {
+                "item": "你 下午 有課 嗎 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你下午有課嗎.mp3"
+            }
+        ],
+        "words": {
+            "中午": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/中.gif",
+                    "https://pratamov.github.io/zh-tw/animation/午.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/中.png",
+                    "https://pratamov.github.io/zh-tw/stroke/午.png"
+                ]
+            },
+            "下午": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/下.gif",
+                    "https://pratamov.github.io/zh-tw/animation/午.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/下.png",
+                    "https://pratamov.github.io/zh-tw/stroke/午.png"
+                ]
+            },
+            "不回家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/不.gif",
+                    "https://pratamov.github.io/zh-tw/animation/回.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/不.png",
+                    "https://pratamov.github.io/zh-tw/stroke/回.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "沒有課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/沒.gif",
+                    "https://pratamov.github.io/zh-tw/animation/有.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/沒.png",
+                    "https://pratamov.github.io/zh-tw/stroke/有.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "回家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/回.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/回.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "你": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png"
+                ]
+            },
+            "晚上": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/晚.gif",
+                    "https://pratamov.github.io/zh-tw/animation/上.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/晚.png",
+                    "https://pratamov.github.io/zh-tw/stroke/上.png"
+                ]
+            },
+            "有課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/有.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/有.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "嗎": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/嗎.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/嗎.png"
+                ]
+            },
+            "早上": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/早.gif",
+                    "https://pratamov.github.io/zh-tw/animation/上.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/早.png",
+                    "https://pratamov.github.io/zh-tw/stroke/上.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-1-[06]",
+        "item_count": 20,
+        "word_count": 10,
+        "items": [
+            {
+                "item": "我 早上 有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上有課.mp3"
+            },
+            {
+                "item": "我 早上 沒有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上沒有課.mp3"
+            },
+            {
+                "item": "我 早上 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上回家.mp3"
+            },
+            {
+                "item": "我 中午 有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午有課.mp3"
+            },
+            {
+                "item": "我 中午 沒有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午沒有課.mp3"
+            },
+            {
+                "item": "我 中午 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午回家.mp3"
+            },
+            {
+                "item": "我 下午 有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午有課.mp3"
+            },
+            {
+                "item": "我 下午 沒有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午沒有課.mp3"
+            },
+            {
+                "item": "我 下午 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午回家.mp3"
+            },
+            {
+                "item": "我 晚上 有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上有課.mp3"
+            },
+            {
+                "item": "我 晚上 沒有課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上沒有課.mp3"
+            },
+            {
+                "item": "我 晚上 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上回家.mp3"
+            },
+            {
+                "item": "我 早上 沒有課 , 你呢 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上沒有課你呢.mp3"
+            },
+            {
+                "item": "我 早上 不回家 , 你呢 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上不回家你呢.mp3"
+            },
+            {
+                "item": "我 中午 沒有課 , 你呢 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午沒有課你呢.mp3"
+            },
+            {
+                "item": "我 中午 不回家 , 你呢 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午不回家你呢.mp3"
+            },
+            {
+                "item": "我 下午 沒有課 , 你呢 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午沒有課你呢.mp3"
+            },
+            {
+                "item": "我 下午 不回家 , 你呢 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午不回家你呢.mp3"
+            },
+            {
+                "item": "我 晚上 沒有課 , 你呢 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上沒有課你呢.mp3"
+            },
+            {
+                "item": "我 晚上 不回家 , 你呢 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上不回家你呢.mp3"
+            }
+        ],
+        "words": {
+            "中午": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/中.gif",
+                    "https://pratamov.github.io/zh-tw/animation/午.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/中.png",
+                    "https://pratamov.github.io/zh-tw/stroke/午.png"
+                ]
+            },
+            "下午": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/下.gif",
+                    "https://pratamov.github.io/zh-tw/animation/午.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/下.png",
+                    "https://pratamov.github.io/zh-tw/stroke/午.png"
+                ]
+            },
+            "不回家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/不.gif",
+                    "https://pratamov.github.io/zh-tw/animation/回.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/不.png",
+                    "https://pratamov.github.io/zh-tw/stroke/回.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "沒有課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/沒.gif",
+                    "https://pratamov.github.io/zh-tw/animation/有.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/沒.png",
+                    "https://pratamov.github.io/zh-tw/stroke/有.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "回家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/回.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/回.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "晚上": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/晚.gif",
+                    "https://pratamov.github.io/zh-tw/animation/上.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/晚.png",
+                    "https://pratamov.github.io/zh-tw/stroke/上.png"
+                ]
+            },
+            "你呢": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif",
+                    "https://pratamov.github.io/zh-tw/animation/呢.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png",
+                    "https://pratamov.github.io/zh-tw/stroke/呢.png"
+                ]
+            },
+            "有課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/有.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/有.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "早上": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/早.gif",
+                    "https://pratamov.github.io/zh-tw/animation/上.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/早.png",
+                    "https://pratamov.github.io/zh-tw/stroke/上.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-1-[07]",
+        "item_count": 14,
+        "word_count": 16,
+        "items": [
+            {
+                "item": "我 五點 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我五點回家.mp3"
+            },
+            {
+                "item": "我 六點 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我六點回家.mp3"
+            },
+            {
+                "item": "我 七點 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我七點回家.mp3"
+            },
+            {
+                "item": "我 八點 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我八點回家.mp3"
+            },
+            {
+                "item": "我 九點 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我九點回家.mp3"
+            },
+            {
+                "item": "我 十點 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我十點回家.mp3"
+            },
+            {
+                "item": "我 十一點 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我十一點回家.mp3"
+            },
+            {
+                "item": "我 十二點 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我十二點回家.mp3"
+            },
+            {
+                "item": "我 四點 十五分 下課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我四點十五分下課.mp3"
+            },
+            {
+                "item": "我 四點 十五分 上課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我四點十五分上課.mp3"
+            },
+            {
+                "item": "我 四點 三十分 下課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我四點三十分下課.mp3"
+            },
+            {
+                "item": "我 四點 三十分 上課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我四點三十分上課.mp3"
+            },
+            {
+                "item": "我 四點 四十五分 下課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我四點四十五分下課.mp3"
+            },
+            {
+                "item": "我 四點 四十五分 上課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我四點四十五分上課.mp3"
+            }
+        ],
+        "words": {
+            "十二點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/二.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/二.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "六點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/六.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/六.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "下課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/下.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/下.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "九點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/九.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/九.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "回家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/回.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/回.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "七點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/七.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/七.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "十一點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/一.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/一.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "十五分": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/五.gif",
+                    "https://pratamov.github.io/zh-tw/animation/分.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/五.png",
+                    "https://pratamov.github.io/zh-tw/stroke/分.png"
+                ]
+            },
+            "四十五分": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/四.gif",
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/五.gif",
+                    "https://pratamov.github.io/zh-tw/animation/分.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/四.png",
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/五.png",
+                    "https://pratamov.github.io/zh-tw/stroke/分.png"
+                ]
+            },
+            "四點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/四.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/四.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "上課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/上.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/上.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "十點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "五點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/五.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/五.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "八點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/八.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/八.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "三十分": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/三.gif",
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/分.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/三.png",
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/分.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-1-[08]",
+        "item_count": 10,
+        "word_count": 8,
+        "items": [
+            {
+                "item": "你 幾點 回家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點回家.mp3"
+            },
+            {
+                "item": "你 幾點 下課 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點下課.mp3"
+            },
+            {
+                "item": "你 幾點 上課 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點上課.mp3"
+            },
+            {
+                "item": "你 幾點 去學校 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點去學校.mp3"
+            },
+            {
+                "item": "你 幾點 起床 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點起床.mp3"
+            },
+            {
+                "item": "你 幾點 幾分 回家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點幾分回家.mp3"
+            },
+            {
+                "item": "你 幾點 幾分 下課 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點幾分下課.mp3"
+            },
+            {
+                "item": "你 幾點 幾分 上課 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點幾分上課.mp3"
+            },
+            {
+                "item": "你 幾點 幾分 去學校 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點幾分去學校.mp3"
+            },
+            {
+                "item": "你 幾點 幾分 起床 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你幾點幾分起床.mp3"
+            }
+        ],
+        "words": {
+            "幾分": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/幾.gif",
+                    "https://pratamov.github.io/zh-tw/animation/分.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/幾.png",
+                    "https://pratamov.github.io/zh-tw/stroke/分.png"
+                ]
+            },
+            "幾點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/幾.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/幾.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "回家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/回.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/回.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "你": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png"
+                ]
+            },
+            "起床": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/起.gif",
+                    "https://pratamov.github.io/zh-tw/animation/床.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/起.png",
+                    "https://pratamov.github.io/zh-tw/stroke/床.png"
+                ]
+            },
+            "上課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/上.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/上.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "下課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/下.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/下.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "去學校": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/去.gif",
+                    "https://pratamov.github.io/zh-tw/animation/學.gif",
+                    "https://pratamov.github.io/zh-tw/animation/校.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/去.png",
+                    "https://pratamov.github.io/zh-tw/stroke/學.png",
+                    "https://pratamov.github.io/zh-tw/stroke/校.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-2-[01]",
+        "item_count": 18,
+        "word_count": 11,
+        "items": [
+            {
+                "item": "今天 是 週末",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是週末.mp3"
+            },
+            {
+                "item": "今天 是 星期六",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是星期六.mp3"
+            },
+            {
+                "item": "今天 是 星期日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是星期日.mp3"
+            },
+            {
+                "item": "明天 是 週末",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/明天是週末.mp3"
+            },
+            {
+                "item": "明天 是 星期六",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/明天是星期六.mp3"
+            },
+            {
+                "item": "明天 是 星期日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/明天是星期日.mp3"
+            },
+            {
+                "item": "昨天 是 週末",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/昨天是週末.mp3"
+            },
+            {
+                "item": "昨天 是 星期六",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/昨天是星期六.mp3"
+            },
+            {
+                "item": "昨天 是 星期日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/昨天是星期日.mp3"
+            },
+            {
+                "item": "今天 是 妳的 生日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是妳的生日.mp3"
+            },
+            {
+                "item": "今天 是 我的 生日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是我的生日.mp3"
+            },
+            {
+                "item": "今天 是 他的 生日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是他的生日.mp3"
+            },
+            {
+                "item": "明天 是 妳的 生日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/明天是妳的生日.mp3"
+            },
+            {
+                "item": "明天 是 我的 生日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/明天是我的生日.mp3"
+            },
+            {
+                "item": "明天 是 他的 生日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/明天是他的生日.mp3"
+            },
+            {
+                "item": "昨天 是 妳的 生日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/昨天是妳的生日.mp3"
+            },
+            {
+                "item": "昨天 是 我的 生日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/昨天是我的生日.mp3"
+            },
+            {
+                "item": "昨天 是 他的 生日",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/昨天是他的生日.mp3"
+            }
+        ],
+        "words": {
+            "星期日": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/日.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/日.png"
+                ]
+            },
+            "他的": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif",
+                    "https://pratamov.github.io/zh-tw/animation/的.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png",
+                    "https://pratamov.github.io/zh-tw/stroke/的.png"
+                ]
+            },
+            "生日": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/生.gif",
+                    "https://pratamov.github.io/zh-tw/animation/日.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/生.png",
+                    "https://pratamov.github.io/zh-tw/stroke/日.png"
+                ]
+            },
+            "是": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/是.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/是.png"
+                ]
+            },
+            "明天": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/明.gif",
+                    "https://pratamov.github.io/zh-tw/animation/天.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/明.png",
+                    "https://pratamov.github.io/zh-tw/stroke/天.png"
+                ]
+            },
+            "妳的": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/妳.gif",
+                    "https://pratamov.github.io/zh-tw/animation/的.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/妳.png",
+                    "https://pratamov.github.io/zh-tw/stroke/的.png"
+                ]
+            },
+            "週末": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/週.gif",
+                    "https://pratamov.github.io/zh-tw/animation/末.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/週.png",
+                    "https://pratamov.github.io/zh-tw/stroke/末.png"
+                ]
+            },
+            "今天": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/今.gif",
+                    "https://pratamov.github.io/zh-tw/animation/天.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/今.png",
+                    "https://pratamov.github.io/zh-tw/stroke/天.png"
+                ]
+            },
+            "昨天": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/昨.gif",
+                    "https://pratamov.github.io/zh-tw/animation/天.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/昨.png",
+                    "https://pratamov.github.io/zh-tw/stroke/天.png"
+                ]
+            },
+            "我的": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif",
+                    "https://pratamov.github.io/zh-tw/animation/的.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png",
+                    "https://pratamov.github.io/zh-tw/stroke/的.png"
+                ]
+            },
+            "星期六": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/六.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/六.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-2-[02]",
+        "item_count": 8,
+        "word_count": 8,
+        "items": [
+            {
+                "item": "你 要不要 來 我家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你要不要來我家.mp3"
+            },
+            {
+                "item": "你 要不要 來 他家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你要不要來他家.mp3"
+            },
+            {
+                "item": "你 要不要 來 安寧家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你要不要來安寧家.mp3"
+            },
+            {
+                "item": "你 要不要 來 特曼家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你要不要來特曼家.mp3"
+            },
+            {
+                "item": "你們 要不要 來 我家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你們要不要來我家.mp3"
+            },
+            {
+                "item": "你們 要不要 來 他家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你們要不要來他家.mp3"
+            },
+            {
+                "item": "你們 要不要 來 安寧家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你們要不要來安寧家.mp3"
+            },
+            {
+                "item": "你們 要不要 來 特曼家 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你們要不要來特曼家.mp3"
+            }
+        ],
+        "words": {
+            "他家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "我家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "來": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/來.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/來.png"
+                ]
+            },
+            "你": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png"
+                ]
+            },
+            "你們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "要不要": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/要.gif",
+                    "https://pratamov.github.io/zh-tw/animation/不.gif",
+                    "https://pratamov.github.io/zh-tw/animation/要.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/要.png",
+                    "https://pratamov.github.io/zh-tw/stroke/不.png",
+                    "https://pratamov.github.io/zh-tw/stroke/要.png"
+                ]
+            },
+            "安寧家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/安.gif",
+                    "https://pratamov.github.io/zh-tw/animation/寧.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/安.png",
+                    "https://pratamov.github.io/zh-tw/stroke/寧.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "特曼家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/特.gif",
+                    "https://pratamov.github.io/zh-tw/animation/曼.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/特.png",
+                    "https://pratamov.github.io/zh-tw/stroke/曼.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-2-[03]",
+        "item_count": 18,
+        "word_count": 17,
+        "items": [
+            {
+                "item": "今天 是 一月 一十二號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是一月一十二號.mp3"
+            },
+            {
+                "item": "今天 是 一月 二十八號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是一月二十八號.mp3"
+            },
+            {
+                "item": "今天 是 二月 一十二號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是二月一十二號.mp3"
+            },
+            {
+                "item": "今天 是 二月 二十八號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是二月二十八號.mp3"
+            },
+            {
+                "item": "今天 是 三月 一十二號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是三月一十二號.mp3"
+            },
+            {
+                "item": "今天 是 三月 二十八號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是三月二十八號.mp3"
+            },
+            {
+                "item": "今天 是 四月 一十二號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是四月一十二號.mp3"
+            },
+            {
+                "item": "今天 是 四月 二十八號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是四月二十八號.mp3"
+            },
+            {
+                "item": "今天 是 五月 一十二號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是五月一十二號.mp3"
+            },
+            {
+                "item": "今天 是 五月 二十八號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是五月二十八號.mp3"
+            },
+            {
+                "item": "今天 是 六月 一十二號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是六月一十二號.mp3"
+            },
+            {
+                "item": "今天 是 六月 二十八號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是六月二十八號.mp3"
+            },
+            {
+                "item": "今天 是 七月 二十九號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是七月二十九號.mp3"
+            },
+            {
+                "item": "今天 是 八月 二十九號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是八月二十九號.mp3"
+            },
+            {
+                "item": "今天 是 九月 二十九號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是九月二十九號.mp3"
+            },
+            {
+                "item": "今天 是 十月 二十九號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是十月二十九號.mp3"
+            },
+            {
+                "item": "今天 是 十一月 二十九號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是十一月二十九號.mp3"
+            },
+            {
+                "item": "今天 是 十二月 二十九號",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/今天是十二月二十九號.mp3"
+            }
+        ],
+        "words": {
+            "八月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/八.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/八.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "五月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/五.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/五.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "十二月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/二.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/二.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "六月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/六.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/六.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "十一月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/一.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/一.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "十月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "三月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/三.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/三.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "四月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/四.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/四.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "二十八號": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/二.gif",
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/八.gif",
+                    "https://pratamov.github.io/zh-tw/animation/號.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/二.png",
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/八.png",
+                    "https://pratamov.github.io/zh-tw/stroke/號.png"
+                ]
+            },
+            "是": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/是.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/是.png"
+                ]
+            },
+            "七月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/七.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/七.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "二十九號": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/二.gif",
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/九.gif",
+                    "https://pratamov.github.io/zh-tw/animation/號.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/二.png",
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/九.png",
+                    "https://pratamov.github.io/zh-tw/stroke/號.png"
+                ]
+            },
+            "一月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/一.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/一.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "九月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/九.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/九.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "今天": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/今.gif",
+                    "https://pratamov.github.io/zh-tw/animation/天.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/今.png",
+                    "https://pratamov.github.io/zh-tw/stroke/天.png"
+                ]
+            },
+            "二月": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/二.gif",
+                    "https://pratamov.github.io/zh-tw/animation/月.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/二.png",
+                    "https://pratamov.github.io/zh-tw/stroke/月.png"
+                ]
+            },
+            "一十二號": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/一.gif",
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/二.gif",
+                    "https://pratamov.github.io/zh-tw/animation/號.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/一.png",
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/二.png",
+                    "https://pratamov.github.io/zh-tw/stroke/號.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-2-[04]",
+        "item_count": 11,
+        "word_count": 18,
+        "items": [
+            {
+                "item": "安寧 , 生日 快樂 !",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/安寧生日快樂.mp3"
+            },
+            {
+                "item": "特曼 , 生日 快樂 !",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/特曼生日快樂.mp3"
+            },
+            {
+                "item": "你 , 生日 快樂 !",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/你生日快樂.mp3"
+            },
+            {
+                "item": "謝謝 你 !",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/謝謝你.mp3"
+            },
+            {
+                "item": "謝謝 大家 !",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/謝謝大家.mp3"
+            },
+            {
+                "item": "明天 晚上 六點 來我家 , 好不好 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/明天晚上六點來我家好不好.mp3"
+            },
+            {
+                "item": "週末 晚上 六點 來我家 , 好不好 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/週末晚上六點來我家好不好.mp3"
+            },
+            {
+                "item": "星期六 晚上 六點 來我家 , 好不好 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/星期六晚上六點來我家好不好.mp3"
+            },
+            {
+                "item": "星期日 晚上 六點 來我家 , 好不好 ?",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/星期日晚上六點來我家好不好.mp3"
+            },
+            {
+                "item": "好 明天見 !",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/好明天見.mp3"
+            },
+            {
+                "item": "沒問題 明天見 !",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/沒問題明天見.mp3"
+            }
+        ],
+        "words": {
+            "你": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/你.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/你.png"
+                ]
+            },
+            "大家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/大.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/大.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "明天見": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/明.gif",
+                    "https://pratamov.github.io/zh-tw/animation/天.gif",
+                    "https://pratamov.github.io/zh-tw/animation/見.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/明.png",
+                    "https://pratamov.github.io/zh-tw/stroke/天.png",
+                    "https://pratamov.github.io/zh-tw/stroke/見.png"
+                ]
+            },
+            "星期日": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/日.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/日.png"
+                ]
+            },
+            "沒問題": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/沒.gif",
+                    "https://pratamov.github.io/zh-tw/animation/問.gif",
+                    "https://pratamov.github.io/zh-tw/animation/題.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/沒.png",
+                    "https://pratamov.github.io/zh-tw/stroke/問.png",
+                    "https://pratamov.github.io/zh-tw/stroke/題.png"
+                ]
+            },
+            "特曼": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/特.gif",
+                    "https://pratamov.github.io/zh-tw/animation/曼.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/特.png",
+                    "https://pratamov.github.io/zh-tw/stroke/曼.png"
+                ]
+            },
+            "好不好": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/好.gif",
+                    "https://pratamov.github.io/zh-tw/animation/不.gif",
+                    "https://pratamov.github.io/zh-tw/animation/好.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/好.png",
+                    "https://pratamov.github.io/zh-tw/stroke/不.png",
+                    "https://pratamov.github.io/zh-tw/stroke/好.png"
+                ]
+            },
+            "生日": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/生.gif",
+                    "https://pratamov.github.io/zh-tw/animation/日.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/生.png",
+                    "https://pratamov.github.io/zh-tw/stroke/日.png"
+                ]
+            },
+            "謝謝": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/謝.gif",
+                    "https://pratamov.github.io/zh-tw/animation/謝.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/謝.png",
+                    "https://pratamov.github.io/zh-tw/stroke/謝.png"
+                ]
+            },
+            "晚上": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/晚.gif",
+                    "https://pratamov.github.io/zh-tw/animation/上.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/晚.png",
+                    "https://pratamov.github.io/zh-tw/stroke/上.png"
+                ]
+            },
+            "快樂": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/快.gif",
+                    "https://pratamov.github.io/zh-tw/animation/樂.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/快.png",
+                    "https://pratamov.github.io/zh-tw/stroke/樂.png"
+                ]
+            },
+            "星期六": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/星.gif",
+                    "https://pratamov.github.io/zh-tw/animation/期.gif",
+                    "https://pratamov.github.io/zh-tw/animation/六.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/星.png",
+                    "https://pratamov.github.io/zh-tw/stroke/期.png",
+                    "https://pratamov.github.io/zh-tw/stroke/六.png"
+                ]
+            },
+            "好": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/好.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/好.png"
+                ]
+            },
+            "來我家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/來.gif",
+                    "https://pratamov.github.io/zh-tw/animation/我.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/來.png",
+                    "https://pratamov.github.io/zh-tw/stroke/我.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "六點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/六.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/六.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "明天": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/明.gif",
+                    "https://pratamov.github.io/zh-tw/animation/天.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/明.png",
+                    "https://pratamov.github.io/zh-tw/stroke/天.png"
+                ]
+            },
+            "週末": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/週.gif",
+                    "https://pratamov.github.io/zh-tw/animation/末.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/週.png",
+                    "https://pratamov.github.io/zh-tw/stroke/末.png"
+                ]
+            },
+            "安寧": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/安.gif",
+                    "https://pratamov.github.io/zh-tw/animation/寧.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/安.png",
+                    "https://pratamov.github.io/zh-tw/stroke/寧.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-3-[01]",
+        "item_count": 19,
+        "word_count": 13,
+        "items": [
+            {
+                "item": "安寧 是 學生",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/安寧是學生.mp3"
+            },
+            {
+                "item": "安寧 是 印尼人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/安寧是印尼人.mp3"
+            },
+            {
+                "item": "安寧 是 三十二歲",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/安寧是三十二歲.mp3"
+            },
+            {
+                "item": "特曼 是 學生",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/特曼是學生.mp3"
+            },
+            {
+                "item": "特曼 是 印尼人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/特曼是印尼人.mp3"
+            },
+            {
+                "item": "特曼 是 三十二歲",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/特曼是三十二歲.mp3"
+            },
+            {
+                "item": "我 是 學生",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我是學生.mp3"
+            },
+            {
+                "item": "我 是 印尼人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我是印尼人.mp3"
+            },
+            {
+                "item": "我 是 三十二歲",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我是三十二歲.mp3"
+            },
+            {
+                "item": "他 是 學生",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他是學生.mp3"
+            },
+            {
+                "item": "他 是 台灣人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他是台灣人.mp3"
+            },
+            {
+                "item": "他 是 日本人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他是日本人.mp3"
+            },
+            {
+                "item": "他 是 越南人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他是越南人.mp3"
+            },
+            {
+                "item": "他 是 法語人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他是法語人.mp3"
+            },
+            {
+                "item": "他們 是 學生",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他們是學生.mp3"
+            },
+            {
+                "item": "他們 是 台灣人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他們是台灣人.mp3"
+            },
+            {
+                "item": "他們 是 日本人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他們是日本人.mp3"
+            },
+            {
+                "item": "他們 是 越南人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他們是越南人.mp3"
+            },
+            {
+                "item": "他們 是 法語人",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他們是法語人.mp3"
+            }
+        ],
+        "words": {
+            "他": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "三十二歲": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/三.gif",
+                    "https://pratamov.github.io/zh-tw/animation/十.gif",
+                    "https://pratamov.github.io/zh-tw/animation/二.gif",
+                    "https://pratamov.github.io/zh-tw/animation/歲.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/三.png",
+                    "https://pratamov.github.io/zh-tw/stroke/十.png",
+                    "https://pratamov.github.io/zh-tw/stroke/二.png",
+                    "https://pratamov.github.io/zh-tw/stroke/歲.png"
+                ]
+            },
+            "他們": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif",
+                    "https://pratamov.github.io/zh-tw/animation/們.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png",
+                    "https://pratamov.github.io/zh-tw/stroke/們.png"
+                ]
+            },
+            "越南人": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/越.gif",
+                    "https://pratamov.github.io/zh-tw/animation/南.gif",
+                    "https://pratamov.github.io/zh-tw/animation/人.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/越.png",
+                    "https://pratamov.github.io/zh-tw/stroke/南.png",
+                    "https://pratamov.github.io/zh-tw/stroke/人.png"
+                ]
+            },
+            "學生": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/學.gif",
+                    "https://pratamov.github.io/zh-tw/animation/生.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/學.png",
+                    "https://pratamov.github.io/zh-tw/stroke/生.png"
+                ]
+            },
+            "是": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/是.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/是.png"
+                ]
+            },
+            "特曼": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/特.gif",
+                    "https://pratamov.github.io/zh-tw/animation/曼.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/特.png",
+                    "https://pratamov.github.io/zh-tw/stroke/曼.png"
+                ]
+            },
+            "法語人": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/法.gif",
+                    "https://pratamov.github.io/zh-tw/animation/語.gif",
+                    "https://pratamov.github.io/zh-tw/animation/人.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/法.png",
+                    "https://pratamov.github.io/zh-tw/stroke/語.png",
+                    "https://pratamov.github.io/zh-tw/stroke/人.png"
+                ]
+            },
+            "印尼人": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/印.gif",
+                    "https://pratamov.github.io/zh-tw/animation/尼.gif",
+                    "https://pratamov.github.io/zh-tw/animation/人.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/印.png",
+                    "https://pratamov.github.io/zh-tw/stroke/尼.png",
+                    "https://pratamov.github.io/zh-tw/stroke/人.png"
+                ]
+            },
+            "日本人": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/日.gif",
+                    "https://pratamov.github.io/zh-tw/animation/本.gif",
+                    "https://pratamov.github.io/zh-tw/animation/人.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/日.png",
+                    "https://pratamov.github.io/zh-tw/stroke/本.png",
+                    "https://pratamov.github.io/zh-tw/stroke/人.png"
+                ]
+            },
+            "台灣人": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/台.gif",
+                    "https://pratamov.github.io/zh-tw/animation/灣.gif",
+                    "https://pratamov.github.io/zh-tw/animation/人.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/台.png",
+                    "https://pratamov.github.io/zh-tw/stroke/灣.png",
+                    "https://pratamov.github.io/zh-tw/stroke/人.png"
+                ]
+            },
+            "安寧": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/安.gif",
+                    "https://pratamov.github.io/zh-tw/animation/寧.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/安.png",
+                    "https://pratamov.github.io/zh-tw/stroke/寧.png"
+                ]
+            }
+        }
+    },
+    {
+        "title": "B1-02-3-[02]",
+        "item_count": 15,
+        "word_count": 21,
+        "items": [
+            {
+                "item": "我 早上 五點 起床",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上五點起床.mp3"
+            },
+            {
+                "item": "我 早上 五點 去學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上五點去學校.mp3"
+            },
+            {
+                "item": "我 早上 六點 起床",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上六點起床.mp3"
+            },
+            {
+                "item": "我 早上 六點 去學校",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我早上六點去學校.mp3"
+            },
+            {
+                "item": "我 中午 上課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午上課.mp3"
+            },
+            {
+                "item": "我 中午 吃午飯",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我中午吃午飯.mp3"
+            },
+            {
+                "item": "我 下午 一點,二點 下課",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午一點,二點下課.mp3"
+            },
+            {
+                "item": "我 下午 一點,二點 去圖書館",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我下午一點,二點去圖書館.mp3"
+            },
+            {
+                "item": "我 晚上 八點 睡覺",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上八點睡覺.mp3"
+            },
+            {
+                "item": "我 晚上 八點 回家",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上八點回家.mp3"
+            },
+            {
+                "item": "我 晚上 八點 吃飯",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我晚上八點吃飯.mp3"
+            },
+            {
+                "item": "我 很忙",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我很忙.mp3"
+            },
+            {
+                "item": "我 很累",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/我很累.mp3"
+            },
+            {
+                "item": "他 很忙",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他很忙.mp3"
+            },
+            {
+                "item": "他 很累",
+                "sound": "https://pratamov.github.io/zh-tw/sounds/他很累.mp3"
+            }
+        ],
+        "words": {
+            "中午": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/中.gif",
+                    "https://pratamov.github.io/zh-tw/animation/午.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/中.png",
+                    "https://pratamov.github.io/zh-tw/stroke/午.png"
+                ]
+            },
+            "去圖書館": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/去.gif",
+                    "https://pratamov.github.io/zh-tw/animation/圖.gif",
+                    "https://pratamov.github.io/zh-tw/animation/書.gif",
+                    "https://pratamov.github.io/zh-tw/animation/館.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/去.png",
+                    "https://pratamov.github.io/zh-tw/stroke/圖.png",
+                    "https://pratamov.github.io/zh-tw/stroke/書.png",
+                    "https://pratamov.github.io/zh-tw/stroke/館.png"
+                ]
+            },
+            "很累": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/很.gif",
+                    "https://pratamov.github.io/zh-tw/animation/累.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/很.png",
+                    "https://pratamov.github.io/zh-tw/stroke/累.png"
+                ]
+            },
+            "下課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/下.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/下.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "下午": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/下.gif",
+                    "https://pratamov.github.io/zh-tw/animation/午.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/下.png",
+                    "https://pratamov.github.io/zh-tw/stroke/午.png"
+                ]
+            },
+            "回家": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/回.gif",
+                    "https://pratamov.github.io/zh-tw/animation/家.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/回.png",
+                    "https://pratamov.github.io/zh-tw/stroke/家.png"
+                ]
+            },
+            "上課": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/上.gif",
+                    "https://pratamov.github.io/zh-tw/animation/課.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/上.png",
+                    "https://pratamov.github.io/zh-tw/stroke/課.png"
+                ]
+            },
+            "五點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/五.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/五.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "去學校": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/去.gif",
+                    "https://pratamov.github.io/zh-tw/animation/學.gif",
+                    "https://pratamov.github.io/zh-tw/animation/校.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/去.png",
+                    "https://pratamov.github.io/zh-tw/stroke/學.png",
+                    "https://pratamov.github.io/zh-tw/stroke/校.png"
+                ]
+            },
+            "睡覺": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/睡.gif",
+                    "https://pratamov.github.io/zh-tw/animation/覺.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/睡.png",
+                    "https://pratamov.github.io/zh-tw/stroke/覺.png"
+                ]
+            },
+            "晚上": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/晚.gif",
+                    "https://pratamov.github.io/zh-tw/animation/上.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/晚.png",
+                    "https://pratamov.github.io/zh-tw/stroke/上.png"
+                ]
+            },
+            "吃午飯": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/吃.gif",
+                    "https://pratamov.github.io/zh-tw/animation/午.gif",
+                    "https://pratamov.github.io/zh-tw/animation/飯.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/吃.png",
+                    "https://pratamov.github.io/zh-tw/stroke/午.png",
+                    "https://pratamov.github.io/zh-tw/stroke/飯.png"
+                ]
+            },
+            "八點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/八.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/八.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "他": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/他.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/他.png"
+                ]
+            },
+            "很忙": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/很.gif",
+                    "https://pratamov.github.io/zh-tw/animation/忙.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/很.png",
+                    "https://pratamov.github.io/zh-tw/stroke/忙.png"
+                ]
+            },
+            "一點,二點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/一.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif",
+                    "https://pratamov.github.io/zh-tw/animation/,.gif",
+                    "https://pratamov.github.io/zh-tw/animation/二.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/一.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png",
+                    "https://pratamov.github.io/zh-tw/stroke/,.png",
+                    "https://pratamov.github.io/zh-tw/stroke/二.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "我": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/我.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/我.png"
+                ]
+            },
+            "六點": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/六.gif",
+                    "https://pratamov.github.io/zh-tw/animation/點.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/六.png",
+                    "https://pratamov.github.io/zh-tw/stroke/點.png"
+                ]
+            },
+            "起床": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/起.gif",
+                    "https://pratamov.github.io/zh-tw/animation/床.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/起.png",
+                    "https://pratamov.github.io/zh-tw/stroke/床.png"
+                ]
+            },
+            "早上": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/早.gif",
+                    "https://pratamov.github.io/zh-tw/animation/上.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/早.png",
+                    "https://pratamov.github.io/zh-tw/stroke/上.png"
+                ]
+            },
+            "吃飯": {
+                "animation": [
+                    "https://pratamov.github.io/zh-tw/animation/吃.gif",
+                    "https://pratamov.github.io/zh-tw/animation/飯.gif"
+                ],
+                "stroke": [
+                    "https://pratamov.github.io/zh-tw/stroke/吃.png",
+                    "https://pratamov.github.io/zh-tw/stroke/飯.png"
+                ]
+            }
+        }
+    }
+]

@@ -1,152 +1,126 @@
-import React, { useState, useEffect, useRef } from 'react';
+// components/Deck.js
+import React, { useState, useEffect } from 'react';
+import AudioPlayer from './AudioPlayer';
+import DeckHeader from './DeckHeader';
+import ItemHint from './ItemHint';
+import ItemAudio from './ItemAudio';
+import Instructions from './Instructions';
 
 function Deck({ deck, onComplete, onBack }) {
-  const [items, setItems] = useState([]);
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [showHint, setShowHint] = useState(false);
-  const [startTime, setStartTime] = useState(Date.now());
-  const [timings, setTimings] = useState([]);
-  const [isPlaying, setIsPlaying] = useState(false);
-  const audioRef = useRef(null);
+	const [items, setItems] = useState([]);
+	const [masks, setMasks] = useState([]);
+	const [currentIndex, setCurrentIndex] = useState(0);
+	const [showHint, setShowHint] = useState(false);
+	const [startTime, setStartTime] = useState(Date.now());
+	const [timings, setTimings] = useState([]);
 
-  // Shuffle items and initialize state
-  useEffect(() => {
-    const shuffledItems = [...deck.items].sort(() => Math.random() - 0.5);
-    setItems(shuffledItems);
-    setCurrentIndex(0);
-    setShowHint(false);
-    setTimings([]);
-    setIsPlaying(false);
-  }, [deck]);
+	const {
+		play: playAudio,
+		replay: handleReplay,
+		isPlaying,
+		audioElement
+	} = AudioPlayer({
+		src: items[currentIndex]?.sound,
+		onEnded: () => { }
+	});
 
-  // Handle keyboard events
-  useEffect(() => {
-    const handleKeyDown = (e) => {
-      if (e.key === 'Enter') {
-        handleNext();
-      }
-    };
+	// Shuffle items and initialize state
+	useEffect(() => {
+		const shuffledItems = [...deck.items].sort(() => Math.random() - 0.5);
+		setItems(shuffledItems);
+		setCurrentIndex(0);
+		setShowHint(false);
+		setTimings([]);
 
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [showHint, currentIndex, items.length]);
+		// Generate masks array
+		const newMasks = shuffledItems.map(item => {
+			// Split sentence into words and clean them
+			const words = item.item
+				.split(' ')
+				.map(word => word.trim())
+				.filter(word => !['?', ',', '!'].includes(word));
 
-  // Play audio when item changes
-  useEffect(() => {
-    if (items.length > 0 && currentIndex < items.length) {
-      setShowHint(false);
-      setStartTime(Date.now());
-      playAudio();
-    }
-  }, [currentIndex, items]);
+			// Select random word if available
+			return words.length > 0
+				? words[Math.floor(Math.random() * words.length)]
+				: ''; // Fallback for empty sentences
+		});
+		setMasks(newMasks);
+	}, [deck]);
 
-  const playAudio = () => {
-    if (audioRef.current) {
-      audioRef.current.src = items[currentIndex].mp3;
-      audioRef.current.play()
-        .then(() => setIsPlaying(true))
-        .catch(e => console.error("Audio play failed:", e));
-    }
-  };
+	// Handle keyboard events
+	useEffect(() => {
+		const handleKeyDown = (e) => {
+			if (e.key === 'Enter') {
+				handleNext();
+			}
+		};
 
-  const handleReplay = () => {
-    if (audioRef.current) {
-      audioRef.current.currentTime = 0;
-      audioRef.current.play()
-        .then(() => setIsPlaying(true))
-        .catch(e => console.error("Audio replay failed:", e));
-    }
-  };
+		window.addEventListener('keydown', handleKeyDown);
+		return () => window.removeEventListener('keydown', handleKeyDown);
+	}, [showHint, currentIndex, items.length]);
 
-  const handleAudioEnded = () => {
-    setIsPlaying(false);
-  };
+	// Play audio when item changes
+	useEffect(() => {
+		if (items.length > 0 && currentIndex < items.length) {
+			setShowHint(false);
+			setStartTime(Date.now());
+			playAudio();
+		}
+	}, [currentIndex, items]);
 
-  const handleNext = () => {
-    if (!showHint) {
-      // First Enter press - show hint
-      setShowHint(true);
-      
-      // Record time taken to respond
-      const timeTaken = (Date.now() - startTime) / 1000;
-      setTimings(prev => [...prev, {
-        item: items[currentIndex],
-        timeTaken
-      }]);
-    } else {
-      // Second Enter press - move to next item
-      if (currentIndex < items.length - 1) {
-        setCurrentIndex(currentIndex + 1);
-      } else {
-        // Session complete
-        onComplete(timings);
-      }
-    }
-  };
+	const handleNext = () => {
+		if (!showHint) {
+			setShowHint(true);
+			const timeTaken = (Date.now() - startTime) / 1000;
+			setTimings(prev => [...prev, {
+				item: items[currentIndex],
+				timeTaken
+			}]);
+		} else {
+			if (currentIndex < items.length - 1) {
+				setCurrentIndex(currentIndex + 1);
+			} else {
+				onComplete(timings);
+			}
+		}
+	};
 
-  if (items.length === 0) return <div>Loading...</div>;
+	if (items.length === 0) return <div>Loading...</div>;
 
-  return (
-    <div className="deck">
-      <audio 
-        ref={audioRef} 
-        onEnded={handleAudioEnded}
-      />
-      
-      <div className="deck-header">
-        <button onClick={onBack} className="back-button">← Back to Decks</button>
-        <h2>{deck.name}</h2>
-        <div className="progress">
-          Item {currentIndex + 1} of {items.length}
-        </div>
-      </div>
+	console.log(masks);
+	return (
+		<div className="deck">
+			{audioElement}
 
-      <div className="item-container">
-        {!showHint && (
-          <div className="item-audio">
-            <p>{isPlaying ? 'Playing audio...' : 'Audio ready'}</p>
-            <button 
-              onClick={handleReplay} 
-              className="replay-button"
-              disabled={isPlaying}
-            >
-              {isPlaying ? 'Playing...' : '↻ Replay Audio'}
-            </button>
-          </div>
-        )}
+			<DeckHeader
+				deck={deck}
+				currentIndex={currentIndex}
+				itemsLength={items.length}
+				onBack={onBack}
+			/>
 
-        {showHint && (
-          <div className="item-hint">
-            <h1>{items[currentIndex].word}</h1>
-            <p>[{items[currentIndex].pinyin}] : {items[currentIndex].means}</p>
+			<div className="item-container">
+				{!showHint ? (
+					<ItemAudio
+						sentence={items[currentIndex].item}
+						word={masks[currentIndex]}
+						isPlaying={isPlaying}
+						onReplay={handleReplay}
+					/>
+				) : (
+					<ItemHint 
+						sentence={items[currentIndex].item} 
+						word={masks[currentIndex]} />
+				)}
 
-            <div className="animation-container">
-                {Array.isArray(items[currentIndex].animation) ? (
-                    items[currentIndex].animation.map((anim, index) => (
-                    <img 
-                        key={index} 
-                        src={anim} 
-                        alt={`Character animation ${index + 1}`}
-                        className="animation-image"
-                    />
-                    ))
-                ) : (
-                    <img 
-                    src={items[currentIndex].animation} 
-                    alt="Character animation"
-                    className="animation-image"
-                    />
-                )}
-            </div>
-          </div>
-        )}
-
-        <div className="instructions">
-          <p>Press Enter to {showHint ? 'continue' : 'reveal hint'}</p>
-        </div>
-      </div>
-    </div>
-  );
+				<Instructions
+					showHint={showHint}
+					onNext={handleNext}
+				/>
+			</div>
+		</div>
+	);
 }
 
 export default Deck;

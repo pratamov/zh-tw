@@ -1,36 +1,26 @@
 import React, { useState, useEffect } from 'react';
 import Deck from './components/Deck';
 import Results from './components/Results';
-import data from './data/data';
+// import data from './data/data';
+import contentData from './data/contents';
+import dictionaryData from './data/dictionary';
 import './styles.css';
 
 function App() {
   const [currentDeck, setCurrentDeck] = useState(null);
   const [showResults, setShowResults] = useState(false);
   const [results, setResults] = useState([]);
-  const [decks, setDecks] = useState([]);
+  // const [decks, setDecks] = useState([]);
+  const [contents, setContents] = useState([]);
+  const [dictionary, setDictionary] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    setDecks(data.decks);
+    // setDecks(data.decks);
+    setDictionary(dictionaryData);
+    setContents(contentData);
     setLoading(false);
-    // const fetchDecks = async () => {
-    //   try {
-    //     const response = await fetch('/decks.json');
-    //     if (!response.ok) {
-    //       throw new Error('Failed to load decks');
-    //     }
-    //     const data = await response.json();
-    //     setDecks(data.decks);
-    //   } catch (err) {
-    //     setError(err.message);
-    //   } finally {
-    //     setLoading(false);
-    //   }
-    // };
-
-    // fetchDecks();
   }, []);
 
   const handleDeckSelect = (deck) => {
@@ -53,13 +43,13 @@ function App() {
         <div className="deck-selection">
           <h1>Select a Deck</h1>
           <div className="decks">
-            {decks.map(deck => (
-              <button 
-                key={deck.id} 
+            {contents.map(deck => (
+              <button
+                key={deck.title}
                 className="deck-button"
                 onClick={() => handleDeckSelect(deck)}
               >
-                {deck.name}
+                {deck.title}
               </button>
             ))}
           </div>
@@ -67,17 +57,17 @@ function App() {
       )}
 
       {currentDeck && !showResults && (
-        <Deck 
+        <Deck
           key={currentDeck.word}
-          deck={currentDeck} 
-          onComplete={handleSessionComplete} 
+          deck={currentDeck}
+          onComplete={handleSessionComplete}
           onBack={() => setCurrentDeck(null)}
         />
       )}
 
       {showResults && (
-        <Results 
-          results={results} 
+        <Results
+          results={results}
           onBack={() => setShowResults(false)}
         />
       )}
