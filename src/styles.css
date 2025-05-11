@@ -170,7 +170,6 @@ th {
   margin-bottom: 20px;
 }
 
-
 .animation-container {
   display: flex;
   gap: 20px;
@@ -207,7 +206,8 @@ th {
   background: #f8f9fa;
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  /* max-height: 300px; */
+  /* max-height: 300px;
+  */
   overflow-y: auto;
 }
 
@@ -269,12 +269,29 @@ th {
 
 /* For better scrolling on mobile */
 @media (max-width: 768px) {
+  .app {
+    padding: 1rem;
+  }
+
+  .item-container {
+    padding: 0rem;
+  }
+
+  .deck {
+    padding: 1.5rem;
+  }
+
   .animation-container {
     justify-content: flex-start;
-    padding-bottom: 15px;
+    padding-bottom: 1rem;
   }
 
   .animation-image {
     max-height: 120px;
+  }
+
+  .dictionary-item {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
   }
 }

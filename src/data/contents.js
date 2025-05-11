@@ -1080,6 +1080,509 @@ const contentData = [
         "sound": "https://pratamov.github.io/zh-tw/sounds/他很累.mp3"
       }
     ]
+  },
+  {
+    "title": "B1-07-1-[01]",
+    "item_count": 26,
+    "word_count": 44,
+    "items": [
+      {
+        "item": "我們 去找 朋友",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我們去找朋友.mp3"
+      },
+      {
+        "item": "你的 去找 朋友",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/你的去找朋友.mp3"
+      },
+      {
+        "item": "我 去找 朋友",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我去找朋友.mp3"
+      },
+      {
+        "item": "你 去找 朋友",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/你去找朋友.mp3"
+      },
+      {
+        "item": "我們 明天 幾點 去找 你的 朋友",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我們明天幾點去找你的朋友.mp3"
+      },
+      {
+        "item": "學校 的 下課 休息 時間",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/學校的下課休息時間.mp3"
+      },
+      {
+        "item": "我們 下午 四點 要到 飯店",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我們下午四點要到飯店.mp3"
+      },
+      {
+        "item": "他 在 那裡 等 我們",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他在那裡等我們.mp3"
+      },
+      {
+        "item": "我要 怎麼去 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我要怎麼去.mp3"
+      },
+      {
+        "item": "你要 怎麼去 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/你要怎麼去.mp3"
+      },
+      {
+        "item": "我想 怎麼去 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我想怎麼去.mp3"
+      },
+      {
+        "item": "你想 怎麼去 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/你想怎麼去.mp3"
+      },
+      {
+        "item": "可是 我 不知道 怎麼走",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/可是我不知道怎麼走.mp3"
+      },
+      {
+        "item": "坐捷運 還是 坐公車 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐捷運還是坐公車.mp3"
+      },
+      {
+        "item": "坐捷運 還是 走路去 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐捷運還是走路去.mp3"
+      },
+      {
+        "item": "坐公車 還是 坐捷運 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐公車還是坐捷運.mp3"
+      },
+      {
+        "item": "坐公車 還是 走路去 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐公車還是走路去.mp3"
+      },
+      {
+        "item": "走路去 還是 坐捷運 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/走路去還是坐捷運.mp3"
+      },
+      {
+        "item": "走路去 還是 坐公車 ?",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/走路去還是坐公車.mp3"
+      },
+      {
+        "item": "我想 我們 可以 從學校 坐捷運",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我想我們可以從學校坐捷運.mp3"
+      },
+      {
+        "item": "我想 我們 可以 從學校 坐公車",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我想我們可以從學校坐公車.mp3"
+      },
+      {
+        "item": "我想 我們 可以 從學校 走路去",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我想我們可以從學校走路去.mp3"
+      },
+      {
+        "item": "聽說 那家飯店 不遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/聽說那家飯店不遠.mp3"
+      },
+      {
+        "item": "我 也 不知道",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我也不知道.mp3"
+      },
+      {
+        "item": "我們 可以 先 上網 看地圖",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我們可以先上網看地圖.mp3"
+      },
+      {
+        "item": "我們 先 上課 吧",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我們先上課吧.mp3"
+      }
+    ]
+  },
+  {
+    "title": "B1-07-2-[01]",
+    "item_count": 24,
+    "word_count": 38,
+    "items": [
+      {
+        "item": "飯店 在 大學 路",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/飯店在大學路.mp3"
+      },
+      {
+        "item": "我 現在知道 怎麼走 了",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我現在知道怎麼走了.mp3"
+      },
+      {
+        "item": "你看 !",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/你看.mp3"
+      },
+      {
+        "item": "飯店 在 這裡 !",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/飯店在這裡.mp3"
+      },
+      {
+        "item": "我 知道 這個 地方",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我知道這個地方.mp3"
+      },
+      {
+        "item": "附近 有 郵局 跟 超級市場",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/附近有郵局跟超級市場.mp3"
+      },
+      {
+        "item": "我想 走路去 一定 沒問題",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我想走路去一定沒問題.mp3"
+      },
+      {
+        "item": "走路去 太累 了",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/走路去太累了.mp3"
+      },
+      {
+        "item": "可是 我覺得 那裡 有一點 遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/可是我覺得那裡有一點遠.mp3"
+      },
+      {
+        "item": "坐捷運去 又方便 又舒服",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐捷運去又方便又舒服.mp3"
+      },
+      {
+        "item": "坐公車去 又方便 又舒服",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐公車去又方便又舒服.mp3"
+      },
+      {
+        "item": "走路去 又方便 又舒服",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/走路去又方便又舒服.mp3"
+      },
+      {
+        "item": "開車去 又方便 又舒服",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/開車去又方便又舒服.mp3"
+      },
+      {
+        "item": "坐捷運去 又方便 又快",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐捷運去又方便又快.mp3"
+      },
+      {
+        "item": "坐公車去 又方便 又快",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐公車去又方便又快.mp3"
+      },
+      {
+        "item": "走路去 又方便 又快",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/走路去又方便又快.mp3"
+      },
+      {
+        "item": "開車去 又方便 又快",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/開車去又方便又快.mp3"
+      },
+      {
+        "item": "坐捷運去 又舒服 又快",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐捷運去又舒服又快.mp3"
+      },
+      {
+        "item": "坐公車去 又舒服 又快",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐公車去又舒服又快.mp3"
+      },
+      {
+        "item": "走路去 又舒服 又快",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/走路去又舒服又快.mp3"
+      },
+      {
+        "item": "開車去 又舒服 又快",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/開車去又舒服又快.mp3"
+      },
+      {
+        "item": "我們 可以 坐捷運",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我們可以坐捷運.mp3"
+      },
+      {
+        "item": "我們 可以 坐公車",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我們可以坐公車.mp3"
+      },
+      {
+        "item": "我們 可以 走路去",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我們可以走路去.mp3"
+      }
+    ]
+  },
+  {
+    "title": "B1-07-3-[01]",
+    "item_count": 45,
+    "word_count": 14,
+    "items": [
+      {
+        "item": "我 平常 坐紅線 去 學校",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我平常坐紅線去學校.mp3"
+      },
+      {
+        "item": "我 平常 坐紅線 去 運動",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我平常坐紅線去運動.mp3"
+      },
+      {
+        "item": "我 平常 坐綠線 去 學校",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我平常坐綠線去學校.mp3"
+      },
+      {
+        "item": "我 平常 坐綠線 去 運動",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我平常坐綠線去運動.mp3"
+      },
+      {
+        "item": "我 平常 坐藍線 去 學校",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我平常坐藍線去學校.mp3"
+      },
+      {
+        "item": "我 平常 坐藍線 去 運動",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我平常坐藍線去運動.mp3"
+      },
+      {
+        "item": "我 也 坐紅線 去 學校",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我也坐紅線去學校.mp3"
+      },
+      {
+        "item": "我 也 坐紅線 去 運動",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我也坐紅線去運動.mp3"
+      },
+      {
+        "item": "我 也 坐綠線 去 學校",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我也坐綠線去學校.mp3"
+      },
+      {
+        "item": "我 也 坐綠線 去 運動",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我也坐綠線去運動.mp3"
+      },
+      {
+        "item": "我 也 坐藍線 去 學校",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我也坐藍線去學校.mp3"
+      },
+      {
+        "item": "我 也 坐藍線 去 運動",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我也坐藍線去運動.mp3"
+      },
+      {
+        "item": "我 覺得 坐紅線 去 學校",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我覺得坐紅線去學校.mp3"
+      },
+      {
+        "item": "我 覺得 坐紅線 去 運動",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我覺得坐紅線去運動.mp3"
+      },
+      {
+        "item": "我 覺得 坐綠線 去 學校",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我覺得坐綠線去學校.mp3"
+      },
+      {
+        "item": "我 覺得 坐綠線 去 運動",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我覺得坐綠線去運動.mp3"
+      },
+      {
+        "item": "我 覺得 坐藍線 去 學校",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我覺得坐藍線去學校.mp3"
+      },
+      {
+        "item": "我 覺得 坐藍線 去 運動",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我覺得坐藍線去運動.mp3"
+      },
+      {
+        "item": "他 平常 坐紅線 來我家",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他平常坐紅線來我家.mp3"
+      },
+      {
+        "item": "他 平常 坐紅線 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他平常坐紅線來找我.mp3"
+      },
+      {
+        "item": "他 平常 坐紅線 看電影",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他平常坐紅線看電影.mp3"
+      },
+      {
+        "item": "他 平常 坐綠線 來我家",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他平常坐綠線來我家.mp3"
+      },
+      {
+        "item": "他 平常 坐綠線 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他平常坐綠線來找我.mp3"
+      },
+      {
+        "item": "他 平常 坐綠線 看電影",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他平常坐綠線看電影.mp3"
+      },
+      {
+        "item": "他 平常 坐藍線 來我家",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他平常坐藍線來我家.mp3"
+      },
+      {
+        "item": "他 平常 坐藍線 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他平常坐藍線來找我.mp3"
+      },
+      {
+        "item": "他 平常 坐藍線 看電影",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他平常坐藍線看電影.mp3"
+      },
+      {
+        "item": "他 也 坐紅線 來我家",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他也坐紅線來我家.mp3"
+      },
+      {
+        "item": "他 也 坐紅線 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他也坐紅線來找我.mp3"
+      },
+      {
+        "item": "他 也 坐紅線 看電影",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他也坐紅線看電影.mp3"
+      },
+      {
+        "item": "他 也 坐綠線 來我家",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他也坐綠線來我家.mp3"
+      },
+      {
+        "item": "他 也 坐綠線 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他也坐綠線來找我.mp3"
+      },
+      {
+        "item": "他 也 坐綠線 看電影",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他也坐綠線看電影.mp3"
+      },
+      {
+        "item": "他 也 坐藍線 來我家",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他也坐藍線來我家.mp3"
+      },
+      {
+        "item": "他 也 坐藍線 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他也坐藍線來找我.mp3"
+      },
+      {
+        "item": "他 也 坐藍線 看電影",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他也坐藍線看電影.mp3"
+      },
+      {
+        "item": "他 覺得 坐紅線 來我家",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他覺得坐紅線來我家.mp3"
+      },
+      {
+        "item": "他 覺得 坐紅線 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他覺得坐紅線來找我.mp3"
+      },
+      {
+        "item": "他 覺得 坐紅線 看電影",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他覺得坐紅線看電影.mp3"
+      },
+      {
+        "item": "他 覺得 坐綠線 來我家",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他覺得坐綠線來我家.mp3"
+      },
+      {
+        "item": "他 覺得 坐綠線 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他覺得坐綠線來找我.mp3"
+      },
+      {
+        "item": "他 覺得 坐綠線 看電影",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他覺得坐綠線看電影.mp3"
+      },
+      {
+        "item": "他 覺得 坐藍線 來我家",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他覺得坐藍線來我家.mp3"
+      },
+      {
+        "item": "他 覺得 坐藍線 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他覺得坐藍線來找我.mp3"
+      },
+      {
+        "item": "他 覺得 坐藍線 看電影",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/他覺得坐藍線看電影.mp3"
+      }
+    ]
+  },
+  {
+    "title": "B1-07-3-[02]",
+    "item_count": 12,
+    "word_count": 7,
+    "items": [
+      {
+        "item": "從 我家 到 機場 不遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從我家到機場不遠.mp3"
+      },
+      {
+        "item": "從 我家 到 機場 遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從我家到機場遠.mp3"
+      },
+      {
+        "item": "從 我家 到 學校 不遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從我家到學校不遠.mp3"
+      },
+      {
+        "item": "從 我家 到 學校 遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從我家到學校遠.mp3"
+      },
+      {
+        "item": "從 學校 到 機場 不遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從學校到機場不遠.mp3"
+      },
+      {
+        "item": "從 學校 到 機場 遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從學校到機場遠.mp3"
+      },
+      {
+        "item": "從 學校 到 我家 不遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從學校到我家不遠.mp3"
+      },
+      {
+        "item": "從 學校 到 我家 遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從學校到我家遠.mp3"
+      },
+      {
+        "item": "從 機場 到 我家 不遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從機場到我家不遠.mp3"
+      },
+      {
+        "item": "從 機場 到 我家 遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從機場到我家遠.mp3"
+      },
+      {
+        "item": "從 機場 到 學校 不遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從機場到學校不遠.mp3"
+      },
+      {
+        "item": "從 機場 到 學校 遠",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/從機場到學校遠.mp3"
+      }
+    ]
+  },
+  {
+    "title": "B1-07-3-[03]",
+    "item_count": 10,
+    "word_count": 19,
+    "items": [
+      {
+        "item": "我家 附近 有 三條 捷運線",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我家附近有三條捷運線.mp3"
+      },
+      {
+        "item": "我家 附近 有 一條 捷運線",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我家附近有一條捷運線.mp3"
+      },
+      {
+        "item": "一條 紅的",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/一條紅的.mp3"
+      },
+      {
+        "item": "一條 綠的",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/一條綠的.mp3"
+      },
+      {
+        "item": "一條 藍的",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/一條藍的.mp3"
+      },
+      {
+        "item": "朋友 常 來找我",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/朋友常來找我.mp3"
+      },
+      {
+        "item": "坐 捷運去 都可以",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/坐捷運去都可以.mp3"
+      },
+      {
+        "item": "機場 附近 的風景 很漂亮",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/機場附近的風景很漂亮.mp3"
+      },
+      {
+        "item": "學校 附近 的風景 很漂亮",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/學校附近的風景很漂亮.mp3"
+      },
+      {
+        "item": "我家 附近 的風景 很漂亮",
+        "sound": "https://pratamov.github.io/zh-tw/sounds/我家附近的風景很漂亮.mp3"
+      }
+    ]
   }
 ];
 export default contentData;

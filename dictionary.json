@@ -1958,5 +1958,1119 @@
         "pinyin": [
             "èrdiǎn"
         ]
+    },
+    "我要": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/我.gif",
+            "https://pratamov.github.io/zh-tw/animation/要.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/我.png",
+            "https://pratamov.github.io/zh-tw/stroke/要.png"
+        ],
+        "meaning": "aku mau",
+        "pinyin": [
+            "wǒyào"
+        ]
+    },
+    "上網": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/上.gif",
+            "https://pratamov.github.io/zh-tw/animation/網.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/上.png",
+            "https://pratamov.github.io/zh-tw/stroke/網.png"
+        ],
+        "meaning": "online",
+        "pinyin": [
+            "shàngwǎng"
+        ]
+    },
+    "從學校": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/從.gif",
+            "https://pratamov.github.io/zh-tw/animation/學.gif",
+            "https://pratamov.github.io/zh-tw/animation/校.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/從.png",
+            "https://pratamov.github.io/zh-tw/stroke/學.png",
+            "https://pratamov.github.io/zh-tw/stroke/校.png"
+        ],
+        "meaning": "dari sekolah",
+        "pinyin": [
+            "cóngxuéxiào"
+        ]
+    },
+    "看地圖": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/看.gif",
+            "https://pratamov.github.io/zh-tw/animation/地.gif",
+            "https://pratamov.github.io/zh-tw/animation/圖.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/看.png",
+            "https://pratamov.github.io/zh-tw/stroke/地.png",
+            "https://pratamov.github.io/zh-tw/stroke/圖.png"
+        ],
+        "meaning": "cek peta",
+        "pinyin": [
+            "kàndìtú"
+        ]
+    },
+    "的": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/的.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/的.png"
+        ],
+        "meaning": "dari",
+        "pinyin": [
+            "de"
+        ]
+    },
+    "時間": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/時.gif",
+            "https://pratamov.github.io/zh-tw/animation/間.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/時.png",
+            "https://pratamov.github.io/zh-tw/stroke/間.png"
+        ],
+        "meaning": "waktu",
+        "pinyin": [
+            "shíjiān"
+        ]
+    },
+    "你想": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/你.gif",
+            "https://pratamov.github.io/zh-tw/animation/想.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/你.png",
+            "https://pratamov.github.io/zh-tw/stroke/想.png"
+        ],
+        "meaning": "kamu mau",
+        "pinyin": [
+            "nǐxiǎng"
+        ]
+    },
+    "可以": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/可.gif",
+            "https://pratamov.github.io/zh-tw/animation/以.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/可.png",
+            "https://pratamov.github.io/zh-tw/stroke/以.png"
+        ],
+        "meaning": "bisa",
+        "pinyin": [
+            "kěyǐ"
+        ]
+    },
+    "去找": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/去.gif",
+            "https://pratamov.github.io/zh-tw/animation/找.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/去.png",
+            "https://pratamov.github.io/zh-tw/stroke/找.png"
+        ],
+        "meaning": "menemui",
+        "pinyin": [
+            "qùzhǎo"
+        ]
+    },
+    "飯店": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/飯.gif",
+            "https://pratamov.github.io/zh-tw/animation/店.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/飯.png",
+            "https://pratamov.github.io/zh-tw/stroke/店.png"
+        ],
+        "meaning": "hotel",
+        "pinyin": [
+            "fàndiàn"
+        ]
+    },
+    "怎麼去": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/怎.gif",
+            "https://pratamov.github.io/zh-tw/animation/麼.gif",
+            "https://pratamov.github.io/zh-tw/animation/去.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/怎.png",
+            "https://pratamov.github.io/zh-tw/stroke/麼.png",
+            "https://pratamov.github.io/zh-tw/stroke/去.png"
+        ],
+        "meaning": "naik apa",
+        "pinyin": [
+            "zěnmeqù"
+        ]
+    },
+    "我想": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/我.gif",
+            "https://pratamov.github.io/zh-tw/animation/想.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/我.png",
+            "https://pratamov.github.io/zh-tw/stroke/想.png"
+        ],
+        "meaning": "menurutku",
+        "pinyin": [
+            "wǒxiǎng"
+        ]
+    },
+    "不遠": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/不.gif",
+            "https://pratamov.github.io/zh-tw/animation/遠.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/不.png",
+            "https://pratamov.github.io/zh-tw/stroke/遠.png"
+        ],
+        "meaning": "tidak jauh",
+        "pinyin": [
+            "bùyuǎn"
+        ]
+    },
+    "休息": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/休.gif",
+            "https://pratamov.github.io/zh-tw/animation/息.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/休.png",
+            "https://pratamov.github.io/zh-tw/stroke/息.png"
+        ],
+        "meaning": "istirahat",
+        "pinyin": [
+            "xiūxī"
+        ]
+    },
+    "你要": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/你.gif",
+            "https://pratamov.github.io/zh-tw/animation/要.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/你.png",
+            "https://pratamov.github.io/zh-tw/stroke/要.png"
+        ],
+        "meaning": "kamu mau",
+        "pinyin": [
+            "nǐyào"
+        ]
+    },
+    "坐捷運": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/坐.gif",
+            "https://pratamov.github.io/zh-tw/animation/捷.gif",
+            "https://pratamov.github.io/zh-tw/animation/運.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/坐.png",
+            "https://pratamov.github.io/zh-tw/stroke/捷.png",
+            "https://pratamov.github.io/zh-tw/stroke/運.png"
+        ],
+        "meaning": "naik MRT",
+        "pinyin": [
+            "zuòjiéyùn"
+        ]
+    },
+    "等": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/等.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/等.png"
+        ],
+        "meaning": "menunggu",
+        "pinyin": [
+            "děng"
+        ]
+    },
+    "坐公車": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/坐.gif",
+            "https://pratamov.github.io/zh-tw/animation/公.gif",
+            "https://pratamov.github.io/zh-tw/animation/車.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/坐.png",
+            "https://pratamov.github.io/zh-tw/stroke/公.png",
+            "https://pratamov.github.io/zh-tw/stroke/車.png"
+        ],
+        "meaning": "naik bus",
+        "pinyin": [
+            "zuògōngchē"
+        ]
+    },
+    "聽說": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/聽.gif",
+            "https://pratamov.github.io/zh-tw/animation/說.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/聽.png",
+            "https://pratamov.github.io/zh-tw/stroke/說.png"
+        ],
+        "meaning": "aku dengar",
+        "pinyin": [
+            "tīngshuō"
+        ]
+    },
+    "還是": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/還.gif",
+            "https://pratamov.github.io/zh-tw/animation/是.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/還.png",
+            "https://pratamov.github.io/zh-tw/stroke/是.png"
+        ],
+        "meaning": "... apa mau pilih ...",
+        "pinyin": [
+            "háishì"
+        ]
+    },
+    "要到": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/要.gif",
+            "https://pratamov.github.io/zh-tw/animation/到.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/要.png",
+            "https://pratamov.github.io/zh-tw/stroke/到.png"
+        ],
+        "meaning": "seharusnya tiba",
+        "pinyin": [
+            "yàodào"
+        ]
+    },
+    "先": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/先.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/先.png"
+        ],
+        "meaning": "terlebih dahulu",
+        "pinyin": [
+            "xiān"
+        ]
+    },
+    "可是": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/可.gif",
+            "https://pratamov.github.io/zh-tw/animation/是.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/可.png",
+            "https://pratamov.github.io/zh-tw/stroke/是.png"
+        ],
+        "meaning": "tetapi",
+        "pinyin": [
+            "kěshì"
+        ]
+    },
+    "怎麼走": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/怎.gif",
+            "https://pratamov.github.io/zh-tw/animation/麼.gif",
+            "https://pratamov.github.io/zh-tw/animation/走.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/怎.png",
+            "https://pratamov.github.io/zh-tw/stroke/麼.png",
+            "https://pratamov.github.io/zh-tw/stroke/走.png"
+        ],
+        "meaning": "bagaimana cara kesana",
+        "pinyin": [
+            "zěnmezǒu"
+        ]
+    },
+    "走路去": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/走.gif",
+            "https://pratamov.github.io/zh-tw/animation/路.gif",
+            "https://pratamov.github.io/zh-tw/animation/去.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/走.png",
+            "https://pratamov.github.io/zh-tw/stroke/路.png",
+            "https://pratamov.github.io/zh-tw/stroke/去.png"
+        ],
+        "meaning": "pergi dengan berjalan",
+        "pinyin": [
+            "zǒulùqù"
+        ]
+    },
+    "朋友": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/朋.gif",
+            "https://pratamov.github.io/zh-tw/animation/友.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/朋.png",
+            "https://pratamov.github.io/zh-tw/stroke/友.png"
+        ],
+        "meaning": "teman",
+        "pinyin": [
+            "péngyǒu"
+        ]
+    },
+    "也": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/也.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/也.png"
+        ],
+        "meaning": "juga",
+        "pinyin": [
+            "yě"
+        ]
+    },
+    "吧": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/吧.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/吧.png"
+        ],
+        "meaning": "kusarankan",
+        "pinyin": [
+            "ba"
+        ]
+    },
+    "那家飯店": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/那.gif",
+            "https://pratamov.github.io/zh-tw/animation/家.gif",
+            "https://pratamov.github.io/zh-tw/animation/飯.gif",
+            "https://pratamov.github.io/zh-tw/animation/店.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/那.png",
+            "https://pratamov.github.io/zh-tw/stroke/家.png",
+            "https://pratamov.github.io/zh-tw/stroke/飯.png",
+            "https://pratamov.github.io/zh-tw/stroke/店.png"
+        ],
+        "meaning": "hotel itu",
+        "pinyin": [
+            "nàjiāfàndiàn"
+        ]
+    },
+    "那裡": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/那.gif",
+            "https://pratamov.github.io/zh-tw/animation/裡.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/那.png",
+            "https://pratamov.github.io/zh-tw/stroke/裡.png"
+        ],
+        "meaning": "Di sana",
+        "pinyin": [
+            "nàlǐ"
+        ]
+    },
+    "坐公車去": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/坐.gif",
+            "https://pratamov.github.io/zh-tw/animation/公.gif",
+            "https://pratamov.github.io/zh-tw/animation/車.gif",
+            "https://pratamov.github.io/zh-tw/animation/去.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/坐.png",
+            "https://pratamov.github.io/zh-tw/stroke/公.png",
+            "https://pratamov.github.io/zh-tw/stroke/車.png",
+            "https://pratamov.github.io/zh-tw/stroke/去.png"
+        ],
+        "meaning": "pergi dengan bus",
+        "pinyin": [
+            "zuògōngchēqù"
+        ]
+    },
+    "有一點": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/有.gif",
+            "https://pratamov.github.io/zh-tw/animation/一.gif",
+            "https://pratamov.github.io/zh-tw/animation/點.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/有.png",
+            "https://pratamov.github.io/zh-tw/stroke/一.png",
+            "https://pratamov.github.io/zh-tw/stroke/點.png"
+        ],
+        "meaning": "sedikit",
+        "pinyin": [
+            "yǒuyīdiǎn"
+        ]
+    },
+    "附近": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/附.gif",
+            "https://pratamov.github.io/zh-tw/animation/近.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/附.png",
+            "https://pratamov.github.io/zh-tw/stroke/近.png"
+        ],
+        "meaning": "nearby",
+        "pinyin": [
+            "fùjìn"
+        ]
+    },
+    "郵局": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/郵.gif",
+            "https://pratamov.github.io/zh-tw/animation/局.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/郵.png",
+            "https://pratamov.github.io/zh-tw/stroke/局.png"
+        ],
+        "meaning": "kantor Pos",
+        "pinyin": [
+            "yóujú"
+        ]
+    },
+    "大學": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/大.gif",
+            "https://pratamov.github.io/zh-tw/animation/學.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/大.png",
+            "https://pratamov.github.io/zh-tw/stroke/學.png"
+        ],
+        "meaning": "universitas",
+        "pinyin": [
+            "dàxué"
+        ]
+    },
+    "超級市場": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/超.gif",
+            "https://pratamov.github.io/zh-tw/animation/級.gif",
+            "https://pratamov.github.io/zh-tw/animation/市.gif",
+            "https://pratamov.github.io/zh-tw/animation/場.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/超.png",
+            "https://pratamov.github.io/zh-tw/stroke/級.png",
+            "https://pratamov.github.io/zh-tw/stroke/市.png",
+            "https://pratamov.github.io/zh-tw/stroke/場.png"
+        ],
+        "meaning": "supermarket",
+        "pinyin": [
+            "chāojíshìchǎng"
+        ]
+    },
+    "又方便": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/又.gif",
+            "https://pratamov.github.io/zh-tw/animation/方.gif",
+            "https://pratamov.github.io/zh-tw/animation/便.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/又.png",
+            "https://pratamov.github.io/zh-tw/stroke/方.png",
+            "https://pratamov.github.io/zh-tw/stroke/便.png"
+        ],
+        "meaning": "convenient",
+        "pinyin": [
+            "yòufāngbiàn"
+        ]
+    },
+    "開車去": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/開.gif",
+            "https://pratamov.github.io/zh-tw/animation/車.gif",
+            "https://pratamov.github.io/zh-tw/animation/去.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/開.png",
+            "https://pratamov.github.io/zh-tw/stroke/車.png",
+            "https://pratamov.github.io/zh-tw/stroke/去.png"
+        ],
+        "meaning": "pergi pakai mobil",
+        "pinyin": [
+            "kāichēqù"
+        ]
+    },
+    "有": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/有.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/有.png"
+        ],
+        "meaning": "memiliki",
+        "pinyin": [
+            "yǒu"
+        ]
+    },
+    "遠": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/遠.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/遠.png"
+        ],
+        "meaning": "jauh",
+        "pinyin": [
+            "yuǎn"
+        ]
+    },
+    "這裡": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/這.gif",
+            "https://pratamov.github.io/zh-tw/animation/裡.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/這.png",
+            "https://pratamov.github.io/zh-tw/stroke/裡.png"
+        ],
+        "meaning": "di Sini",
+        "pinyin": [
+            "zhèlǐ"
+        ]
+    },
+    "這個": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/這.gif",
+            "https://pratamov.github.io/zh-tw/animation/個.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/這.png",
+            "https://pratamov.github.io/zh-tw/stroke/個.png"
+        ],
+        "meaning": "ini",
+        "pinyin": [
+            "zhègè"
+        ]
+    },
+    "地方": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/地.gif",
+            "https://pratamov.github.io/zh-tw/animation/方.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/地.png",
+            "https://pratamov.github.io/zh-tw/stroke/方.png"
+        ],
+        "meaning": "tempat",
+        "pinyin": [
+            "dìfāng"
+        ]
+    },
+    "路": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/路.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/路.png"
+        ],
+        "meaning": "jalan",
+        "pinyin": [
+            "lù"
+        ]
+    },
+    "了": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/了.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/了.png"
+        ],
+        "meaning": "sudah",
+        "pinyin": [
+            "le"
+        ]
+    },
+    "跟": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/跟.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/跟.png"
+        ],
+        "meaning": "beserta",
+        "pinyin": [
+            "gēn"
+        ]
+    },
+    "現在知道": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/現.gif",
+            "https://pratamov.github.io/zh-tw/animation/在.gif",
+            "https://pratamov.github.io/zh-tw/animation/知.gif",
+            "https://pratamov.github.io/zh-tw/animation/道.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/現.png",
+            "https://pratamov.github.io/zh-tw/stroke/在.png",
+            "https://pratamov.github.io/zh-tw/stroke/知.png",
+            "https://pratamov.github.io/zh-tw/stroke/道.png"
+        ],
+        "meaning": "sekarang tahu",
+        "pinyin": [
+            "xiànzàizhīdào"
+        ]
+    },
+    "坐捷運去": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/坐.gif",
+            "https://pratamov.github.io/zh-tw/animation/捷.gif",
+            "https://pratamov.github.io/zh-tw/animation/運.gif",
+            "https://pratamov.github.io/zh-tw/animation/去.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/坐.png",
+            "https://pratamov.github.io/zh-tw/stroke/捷.png",
+            "https://pratamov.github.io/zh-tw/stroke/運.png",
+            "https://pratamov.github.io/zh-tw/stroke/去.png"
+        ],
+        "meaning": "pergi dengan MRT",
+        "pinyin": [
+            "zuòjiéyùnqù"
+        ]
+    },
+    "又快": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/又.gif",
+            "https://pratamov.github.io/zh-tw/animation/快.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/又.png",
+            "https://pratamov.github.io/zh-tw/stroke/快.png"
+        ],
+        "meaning": "cepat",
+        "pinyin": [
+            "yòukuài"
+        ]
+    },
+    "你看": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/你.gif",
+            "https://pratamov.github.io/zh-tw/animation/看.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/你.png",
+            "https://pratamov.github.io/zh-tw/stroke/看.png"
+        ],
+        "meaning": "kau lihat",
+        "pinyin": [
+            "nǐkàn"
+        ]
+    },
+    "又舒服": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/又.gif",
+            "https://pratamov.github.io/zh-tw/animation/舒.gif",
+            "https://pratamov.github.io/zh-tw/animation/服.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/又.png",
+            "https://pratamov.github.io/zh-tw/stroke/舒.png",
+            "https://pratamov.github.io/zh-tw/stroke/服.png"
+        ],
+        "meaning": "comfortable",
+        "pinyin": [
+            "yòushūfú"
+        ]
+    },
+    "我覺得": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/我.gif",
+            "https://pratamov.github.io/zh-tw/animation/覺.gif",
+            "https://pratamov.github.io/zh-tw/animation/得.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/我.png",
+            "https://pratamov.github.io/zh-tw/stroke/覺.png",
+            "https://pratamov.github.io/zh-tw/stroke/得.png"
+        ],
+        "meaning": "kupikir",
+        "pinyin": [
+            "wǒjuédé"
+        ]
+    },
+    "一定": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/一.gif",
+            "https://pratamov.github.io/zh-tw/animation/定.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/一.png",
+            "https://pratamov.github.io/zh-tw/stroke/定.png"
+        ],
+        "meaning": "harus",
+        "pinyin": [
+            "yídìng"
+        ]
+    },
+    "太累": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/太.gif",
+            "https://pratamov.github.io/zh-tw/animation/累.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/太.png",
+            "https://pratamov.github.io/zh-tw/stroke/累.png"
+        ],
+        "meaning": "terlalu melelahkan",
+        "pinyin": [
+            "tàilèi"
+        ]
+    },
+    "從": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/從.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/從.png"
+        ],
+        "meaning": "dari",
+        "pinyin": [
+            "cóng"
+        ]
+    },
+    "捷運線": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/捷.gif",
+            "https://pratamov.github.io/zh-tw/animation/運.gif",
+            "https://pratamov.github.io/zh-tw/animation/線.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/捷.png",
+            "https://pratamov.github.io/zh-tw/stroke/運.png",
+            "https://pratamov.github.io/zh-tw/stroke/線.png"
+        ],
+        "meaning": "jalur MRT",
+        "pinyin": [
+            "jiéyùnxiàn"
+        ]
+    },
+    "平常": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/平.gif",
+            "https://pratamov.github.io/zh-tw/animation/常.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/平.png",
+            "https://pratamov.github.io/zh-tw/stroke/常.png"
+        ],
+        "meaning": "biasanya",
+        "pinyin": [
+            "píngcháng"
+        ]
+    },
+    "常": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/常.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/常.png"
+        ],
+        "meaning": "sering",
+        "pinyin": [
+            "cháng"
+        ]
+    },
+    "三條": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/三.gif",
+            "https://pratamov.github.io/zh-tw/animation/條.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/三.png",
+            "https://pratamov.github.io/zh-tw/stroke/條.png"
+        ],
+        "meaning": "tiga jalur",
+        "pinyin": [
+            "sāntiáo"
+        ]
+    },
+    "都可以": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/都.gif",
+            "https://pratamov.github.io/zh-tw/animation/可.gif",
+            "https://pratamov.github.io/zh-tw/animation/以.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/都.png",
+            "https://pratamov.github.io/zh-tw/stroke/可.png",
+            "https://pratamov.github.io/zh-tw/stroke/以.png"
+        ],
+        "meaning": "akan baik-baik saja",
+        "pinyin": [
+            "dōukěyǐ"
+        ]
+    },
+    "捷運去": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/捷.gif",
+            "https://pratamov.github.io/zh-tw/animation/運.gif",
+            "https://pratamov.github.io/zh-tw/animation/去.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/捷.png",
+            "https://pratamov.github.io/zh-tw/stroke/運.png",
+            "https://pratamov.github.io/zh-tw/stroke/去.png"
+        ],
+        "meaning": "pergi dengan MRT",
+        "pinyin": [
+            "jiéyùnqù"
+        ]
+    },
+    "很漂亮": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/很.gif",
+            "https://pratamov.github.io/zh-tw/animation/漂.gif",
+            "https://pratamov.github.io/zh-tw/animation/亮.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/很.png",
+            "https://pratamov.github.io/zh-tw/stroke/漂.png",
+            "https://pratamov.github.io/zh-tw/stroke/亮.png"
+        ],
+        "meaning": "cantik",
+        "pinyin": [
+            "hěnpiàoliàng"
+        ]
+    },
+    "覺得": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/覺.gif",
+            "https://pratamov.github.io/zh-tw/animation/得.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/覺.png",
+            "https://pratamov.github.io/zh-tw/stroke/得.png"
+        ],
+        "meaning": "merasa",
+        "pinyin": [
+            "juédé"
+        ]
+    },
+    "坐綠線": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/坐.gif",
+            "https://pratamov.github.io/zh-tw/animation/綠.gif",
+            "https://pratamov.github.io/zh-tw/animation/線.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/坐.png",
+            "https://pratamov.github.io/zh-tw/stroke/綠.png",
+            "https://pratamov.github.io/zh-tw/stroke/線.png"
+        ],
+        "meaning": "naik pakai jalur hijau",
+        "pinyin": [
+            "zuòlǜxiàn"
+        ]
+    },
+    "的風景": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/的.gif",
+            "https://pratamov.github.io/zh-tw/animation/風.gif",
+            "https://pratamov.github.io/zh-tw/animation/景.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/的.png",
+            "https://pratamov.github.io/zh-tw/stroke/風.png",
+            "https://pratamov.github.io/zh-tw/stroke/景.png"
+        ],
+        "meaning": "pemandangan",
+        "pinyin": [
+            "defēngjǐng"
+        ]
+    },
+    "坐藍線": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/坐.gif",
+            "https://pratamov.github.io/zh-tw/animation/藍.gif",
+            "https://pratamov.github.io/zh-tw/animation/線.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/坐.png",
+            "https://pratamov.github.io/zh-tw/stroke/藍.png",
+            "https://pratamov.github.io/zh-tw/stroke/線.png"
+        ],
+        "meaning": "naik pakai jalur biru",
+        "pinyin": [
+            "zuòlánxiàn"
+        ]
+    },
+    "坐紅線": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/坐.gif",
+            "https://pratamov.github.io/zh-tw/animation/紅.gif",
+            "https://pratamov.github.io/zh-tw/animation/線.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/坐.png",
+            "https://pratamov.github.io/zh-tw/stroke/紅.png",
+            "https://pratamov.github.io/zh-tw/stroke/線.png"
+        ],
+        "meaning": "naik pakai jalur merah",
+        "pinyin": [
+            "zuòhóngxiàn"
+        ]
+    },
+    "藍的": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/藍.gif",
+            "https://pratamov.github.io/zh-tw/animation/的.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/藍.png",
+            "https://pratamov.github.io/zh-tw/stroke/的.png"
+        ],
+        "meaning": "yang biru",
+        "pinyin": [
+            "lánde"
+        ]
+    },
+    "一條": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/一.gif",
+            "https://pratamov.github.io/zh-tw/animation/條.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/一.png",
+            "https://pratamov.github.io/zh-tw/stroke/條.png"
+        ],
+        "meaning": "satu jalur",
+        "pinyin": [
+            "yītiáo"
+        ]
+    },
+    "坐": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/坐.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/坐.png"
+        ],
+        "meaning": "naik",
+        "pinyin": [
+            "zuò"
+        ]
+    },
+    "來找我": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/來.gif",
+            "https://pratamov.github.io/zh-tw/animation/找.gif",
+            "https://pratamov.github.io/zh-tw/animation/我.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/來.png",
+            "https://pratamov.github.io/zh-tw/stroke/找.png",
+            "https://pratamov.github.io/zh-tw/stroke/我.png"
+        ],
+        "meaning": "mengunjungiku",
+        "pinyin": [
+            "láizhǎowǒ"
+        ]
+    },
+    "紅的": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/紅.gif",
+            "https://pratamov.github.io/zh-tw/animation/的.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/紅.png",
+            "https://pratamov.github.io/zh-tw/stroke/的.png"
+        ],
+        "meaning": "yang merah",
+        "pinyin": [
+            "hóngde"
+        ]
+    },
+    "綠的": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/綠.gif",
+            "https://pratamov.github.io/zh-tw/animation/的.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/綠.png",
+            "https://pratamov.github.io/zh-tw/stroke/的.png"
+        ],
+        "meaning": "yang hijau",
+        "pinyin": [
+            "lǜde"
+        ]
+    },
+    "到": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/到.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/到.png"
+        ],
+        "meaning": "tiba",
+        "pinyin": [
+            "dào"
+        ]
+    },
+    "機場": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/機.gif",
+            "https://pratamov.github.io/zh-tw/animation/場.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/機.png",
+            "https://pratamov.github.io/zh-tw/stroke/場.png"
+        ],
+        "meaning": "bandara",
+        "pinyin": [
+            "jīchǎng"
+        ]
+    },
+    "看電影": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/看.gif",
+            "https://pratamov.github.io/zh-tw/animation/電.gif",
+            "https://pratamov.github.io/zh-tw/animation/影.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/看.png",
+            "https://pratamov.github.io/zh-tw/stroke/電.png",
+            "https://pratamov.github.io/zh-tw/stroke/影.png"
+        ],
+        "meaning": "nonton film",
+        "pinyin": [
+            "kàndiànyǐng"
+        ]
+    },
+    "運動": {
+        "animation": [
+            "https://pratamov.github.io/zh-tw/animation/運.gif",
+            "https://pratamov.github.io/zh-tw/animation/動.gif"
+        ],
+        "stroke": [
+            "https://pratamov.github.io/zh-tw/stroke/運.png",
+            "https://pratamov.github.io/zh-tw/stroke/動.png"
+        ],
+        "meaning": "olahraga",
+        "pinyin": [
+            "yùndòng"
+        ]
     }
 }
